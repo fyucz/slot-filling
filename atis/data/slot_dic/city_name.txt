@@ -1,0 +1,68 @@
+atlanta 
+boston 
+dallas 
+dallas 
+atlanta 
+houston 
+oakland 
+philadelphia 
+dallas 
+baltimore 
+boston 
+boston 
+city of boston 
+san francisco 
+dallas fort worth 
+boston 
+atlanta 
+san jose 
+dallas 
+new york 
+pittsburgh 
+philadelphia 
+denver 
+pittsburgh 
+atlanta 
+boston 
+denver 
+dallas 
+atlanta 
+dallas 
+atlanta 
+city of boston 
+denver 
+houston 
+atlanta 
+boston 
+dallas 
+dallas 
+atlanta 
+houston 
+oakland 
+philadelphia 
+dallas 
+baltimore 
+boston 
+boston 
+city of boston 
+san francisco 
+dallas fort worth 
+boston 
+atlanta 
+san jose 
+dallas 
+new york 
+pittsburgh 
+philadelphia 
+denver 
+pittsburgh 
+atlanta 
+boston 
+denver 
+dallas 
+atlanta 
+dallas 
+atlanta 
+city of boston 
+denver 
+houston 

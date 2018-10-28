@@ -1,0 +1,8 @@
+d s 
+ls 
+s 
+s 
+d s 
+ls 
+s 
+s 

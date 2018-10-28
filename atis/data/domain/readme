@@ -1,0 +1,13 @@
+需要将model.py替换掉
+将config中的路径更改,f3加上
+f3.voc 更改
+test train 更改
+
+运行文件：
+f1,f2,label.voc 使用bio的voc
+train test 更改
+model 更改
+
+Micro_p: 0.958835188290898
+Micro_r: 0.9578129759366433
+Micro_f1: 0.9583238095238095

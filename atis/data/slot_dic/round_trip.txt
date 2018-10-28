@@ -1,0 +1,582 @@
+round trip 
+cheapest round trip 
+round trip 
+round trip 
+one way 
+economy class one way 
+round trip 
+round trip 
+most expensive one way 
+round trip 
+one way 
+round trip 
+one way 
+round trip 
+round trip 
+round trip 
+boston one way 
+round trip 
+one way 
+cheapest one way 
+round trips 
+round trip 
+first class round trip 
+round trip 
+lowest one way 
+round trip 
+chicago round trip 
+lowest round trip 
+cheapest one way 
+cheapest one way 
+one way 
+lowest one way 
+cheapest one way 
+round trip 
+cheapest round trip 
+cheapest round trip 
+round trip 
+atlanta round trip 
+round trip 
+round trip 
+cheapest round trip 
+round trip 
+cheapest one way 
+round trip 
+cheapest one way 
+one way 
+cheapest one way 
+cheapest one way 
+cheapest one way 
+lowest one way 
+round trip 
+round trip 
+cheapest round trip 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+one way 
+cheapest one way 
+one way 
+round trip 
+least expensive one way 
+one way 
+round trip 
+cheapest one way 
+round trip 
+round trip 
+cheapest round trip 
+one way 
+cheapest one way 
+denver one way 
+round trip 
+return 
+round trip 
+lowest one way 
+round trip 
+cheapest round trip 
+first class round trip 
+round trip 
+return 
+round trip 
+cheapest one way 
+one way 
+round trip 
+orlando one way 
+atlanta round trip 
+one way 
+cheapest one way 
+round trip 
+one way 
+round trip 
+one way 
+round trip 
+round trip 
+cheapest round trip 
+round trip 
+round trip 
+round trip 
+cheapest round trip 
+least expensive first class round trip 
+cheapest one way 
+lowest round trip 
+round trip 
+one way 
+round trip 
+cheapest round trip 
+one way 
+round trip 
+least expensive one way 
+round trip 
+1000 dollars round trip 
+1000 dollars round trip 
+one way 
+round trip 
+cheapest one way 
+round trip 
+round trip 
+cheapest one way 
+cheapest one way 
+one way 
+round trip 
+round trip 
+round trip 
+cheapest round trip 
+one way 
+least expensive one way 
+one way 
+round trip 
+boston one way 
+round trip 
+round trip 
+one way 
+round trip 
+one way 
+return 
+cheapest one way 
+first class round trip 
+round trip 
+round trip 
+round trip 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+cheapest one way 
+return 
+lowest one way 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+cheapest one way 
+one way 
+one way 
+one way 
+round trip 
+round trip 
+one way 
+round trip 
+cheapest one way 
+first class round trip 
+one way 
+cheapest one way 
+one way 
+cheapest one way 
+round trip 
+return 
+least expensive one way 
+round trip 
+round trip 
+december sixteenth one way 
+round trip 
+round trip 
+round trip 
+round trip 
+round trip 
+one way 
+dallas one way 
+one way 
+cheapest one way 
+highest one way 
+us air round trip 
+cheapest one way 
+lowest round trip 
+lowest round trip 
+cheapest one way 
+lowest round trip 
+one way 
+round trip 
+cheapest one way 
+round trip 
+round trip 
+round trip 
+round trip 
+round trip 
+1000 dollars or round trip 
+1000 dollars or round trip 
+round trip 
+lowest one way 
+first class round trip 
+cheapest one way 
+round trip 
+one way 
+round trip 
+round trip 
+cheapest one way 
+one way 
+one way 
+cheapest round trip 
+cheapest one way 
+round trip 
+round trip 
+round trip 
+cheapest round trip 
+round trip 
+round trip 
+round trip 
+cheapest round trip 
+first class round trip 
+return 
+round trip 
+round trip 
+lowest round trip 
+cheapest one way 
+cheapest one way 
+cheapest one way 
+round trip 
+round trip 
+round trip 
+one way 
+cheapest one way 
+round trip 
+round trip 
+one way 
+cheapest round trip 
+round trip 
+dallas fort worth one way 
+round trip 
+round trip 
+lowest round trip 
+round trip 
+cheapest one way 
+cheapest one way 
+round trip 
+1000 dollars round trip 
+1000 dollars round trip 
+cheapest round trip 
+round trip 
+cheapest one way 
+round trip 
+lowest round trip 
+miami round trip 
+least expensive one way 
+round trip 
+most expensive one way 
+cheapest round trips 
+cheapest round trip 
+cheapest round trip 
+one way 
+cheapest one way 
+round trip 
+round trip 
+atlanta one way 
+round trip 
+one way 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+cheapest one way 
+return 
+round trip 
+lowest one way 
+round trip 
+cheapest one way 
+round trip 
+lowest one way 
+round trip 
+round trip 
+cheapest one way 
+one way 
+round trip 
+one way 
+round trip 
+round trip 
+least expensive first class round trip 
+cheapest one way 
+round trips 
+round trip 
+cheapest round trip 
+round trip 
+round trip 
+one way 
+economy class one way 
+round trip 
+round trip 
+most expensive one way 
+round trip 
+one way 
+round trip 
+one way 
+round trip 
+round trip 
+round trip 
+boston one way 
+round trip 
+one way 
+cheapest one way 
+round trips 
+round trip 
+first class round trip 
+round trip 
+lowest one way 
+round trip 
+chicago round trip 
+lowest round trip 
+cheapest one way 
+cheapest one way 
+one way 
+lowest one way 
+cheapest one way 
+round trip 
+cheapest round trip 
+cheapest round trip 
+round trip 
+atlanta round trip 
+round trip 
+round trip 
+cheapest round trip 
+round trip 
+cheapest one way 
+round trip 
+cheapest one way 
+one way 
+cheapest one way 
+cheapest one way 
+cheapest one way 
+lowest one way 
+round trip 
+round trip 
+cheapest round trip 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+one way 
+cheapest one way 
+one way 
+round trip 
+least expensive one way 
+one way 
+round trip 
+cheapest one way 
+round trip 
+round trip 
+cheapest round trip 
+one way 
+cheapest one way 
+denver one way 
+round trip 
+return 
+round trip 
+lowest one way 
+round trip 
+cheapest round trip 
+first class round trip 
+round trip 
+return 
+round trip 
+cheapest one way 
+one way 
+round trip 
+orlando one way 
+atlanta round trip 
+one way 
+cheapest one way 
+round trip 
+one way 
+round trip 
+one way 
+round trip 
+round trip 
+cheapest round trip 
+round trip 
+round trip 
+round trip 
+cheapest round trip 
+least expensive first class round trip 
+cheapest one way 
+lowest round trip 
+round trip 
+one way 
+round trip 
+cheapest round trip 
+one way 
+round trip 
+least expensive one way 
+round trip 
+1000 dollars round trip 
+1000 dollars round trip 
+one way 
+round trip 
+cheapest one way 
+round trip 
+round trip 
+cheapest one way 
+cheapest one way 
+one way 
+round trip 
+round trip 
+round trip 
+cheapest round trip 
+one way 
+least expensive one way 
+one way 
+round trip 
+boston one way 
+round trip 
+round trip 
+one way 
+round trip 
+one way 
+return 
+cheapest one way 
+first class round trip 
+round trip 
+round trip 
+round trip 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+cheapest one way 
+return 
+lowest one way 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+cheapest one way 
+one way 
+one way 
+one way 
+round trip 
+round trip 
+one way 
+round trip 
+cheapest one way 
+first class round trip 
+one way 
+cheapest one way 
+one way 
+cheapest one way 
+round trip 
+return 
+least expensive one way 
+round trip 
+round trip 
+december sixteenth one way 
+round trip 
+round trip 
+round trip 
+round trip 
+round trip 
+one way 
+dallas one way 
+one way 
+cheapest one way 
+highest one way 
+us air round trip 
+cheapest one way 
+lowest round trip 
+lowest round trip 
+cheapest one way 
+lowest round trip 
+one way 
+round trip 
+cheapest one way 
+round trip 
+round trip 
+round trip 
+round trip 
+round trip 
+1000 dollars or round trip 
+1000 dollars or round trip 
+round trip 
+lowest one way 
+first class round trip 
+cheapest one way 
+round trip 
+one way 
+round trip 
+round trip 
+cheapest one way 
+one way 
+one way 
+cheapest round trip 
+cheapest one way 
+round trip 
+round trip 
+round trip 
+cheapest round trip 
+round trip 
+round trip 
+round trip 
+cheapest round trip 
+first class round trip 
+return 
+round trip 
+round trip 
+lowest round trip 
+cheapest one way 
+cheapest one way 
+cheapest one way 
+round trip 
+round trip 
+round trip 
+one way 
+cheapest one way 
+round trip 
+round trip 
+one way 
+cheapest round trip 
+round trip 
+dallas fort worth one way 
+round trip 
+round trip 
+lowest round trip 
+round trip 
+cheapest one way 
+cheapest one way 
+round trip 
+1000 dollars round trip 
+1000 dollars round trip 
+cheapest round trip 
+round trip 
+cheapest one way 
+round trip 
+lowest round trip 
+miami round trip 
+least expensive one way 
+round trip 
+most expensive one way 
+cheapest round trips 
+cheapest round trip 
+cheapest round trip 
+one way 
+cheapest one way 
+round trip 
+round trip 
+atlanta one way 
+round trip 
+one way 
+round trip 
+round trip 
+cheapest one way 
+round trip 
+cheapest one way 
+return 
+round trip 
+lowest one way 
+round trip 
+cheapest one way 
+round trip 
+lowest one way 
+round trip 
+round trip 
+cheapest one way 
+one way 
+round trip 
+one way 
+round trip 
+round trip 
+least expensive first class round trip 
+cheapest one way 
+round trips 

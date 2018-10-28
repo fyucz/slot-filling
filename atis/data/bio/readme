@@ -1,0 +1,7 @@
+运行文件：
+f1,f2,f3,label.voc
+train test model
+
+Micro_p: 0.9667254465997086
+Micro_r: 0.960173621687481
+Micro_f1: 0.9634383954154728

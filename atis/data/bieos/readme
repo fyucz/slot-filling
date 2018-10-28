@@ -1,0 +1,13 @@
+只需要将label.pkl替换掉
+将config中的路径更改
+test.py中测f1的slot_dic更改
+model.py不变
+
+运行文件：
+label.voc 替换
+f1,f2.voc 使用bio的voc
+train test model使用bio的
+
+Micro_p: 0.9727562791458725
+Micro_r: 0.9661953518608809
+Micro_f1: 0.9694647152350279

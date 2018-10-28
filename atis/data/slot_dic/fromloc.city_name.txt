@@ -1,0 +1,8102 @@
+boston 
+pittsburgh 
+san francisco 
+tacoma 
+pittsburgh 
+columbus 
+cleveland 
+pittsburgh 
+boston 
+dallas 
+san diego 
+boston 
+boston 
+denver 
+baltimore 
+dallas dallas 
+boston 
+boston 
+denver 
+san diego 
+denver 
+denver 
+atlanta 
+denver pittsburgh 
+boston 
+dallas 
+baltimore 
+new york 
+new york 
+philadelphia 
+dallas 
+pittsburgh 
+st. louis 
+pittsburgh 
+baltimore 
+indianapolis 
+new york 
+pittsburgh 
+boston 
+charlotte 
+san francisco 
+newark 
+boston 
+atlanta 
+boston 
+san francisco 
+denver 
+dallas 
+denver 
+toronto 
+burbank 
+san francisco 
+philadelphia 
+boston 
+boston 
+san francisco 
+denver 
+seattle 
+boston 
+pittsburgh 
+denver 
+indianapolis 
+meal oakland 
+atlanta 
+baltimore 
+baltimore 
+atlanta 
+san jose 
+san francisco 
+baltimore 
+boston 
+boston 
+dallas 
+boston 
+boston 
+san francisco 
+denver 
+boston 
+houston 
+boston 
+philadelphia 
+baltimore 
+columbus 
+san francisco 
+dallas 
+charlotte 
+san francisco 
+boston 
+newark 
+boston 
+san francisco 
+pittsburgh 
+philadelphia 
+pittsburgh 
+pittsburgh 
+kansas city 
+st. petersburg 
+milwaukee 
+boston 
+denver 
+san francisco 
+denver 
+baltimore 
+houston 
+denver 
+boston 
+boston 
+denver 
+dallas 
+new york 
+denver 
+philadelphia 
+oakland 
+orlando 
+charlotte 
+philadelphia 
+boston 
+pittsburgh 
+philadelphia 
+memphis 
+atlanta 
+denver 
+philadelphia 
+san diego 
+san francisco 
+philadelphia 
+phoenix 
+baltimore 
+minneapolis 
+boston 
+denver 
+denver 
+boston 
+washington 
+atlanta 
+atlanta 
+new york 
+houston 
+san francisco 
+atlanta 
+kansas city 
+pittsburgh 
+baltimore 
+baltimore 
+boston 
+dallas 
+philadelphia 
+dallas fort worth 
+philadelphia 
+newark 
+tampa 
+boston 
+boston 
+chicago 
+pittsburgh 
+san francisco 
+las vegas 
+pittsburgh 
+pittsburgh 
+boston 
+long beach 
+boston 
+san francisco 
+boston 
+denver 
+phoenix 
+boston 
+nashville 
+pittsburgh 
+denver 
+toronto 
+san jose 
+pittsburgh 
+oakland 
+san francisco 
+pittsburgh 
+dallas fort worth 
+houston 
+philadelphia 
+san francisco 
+miami 
+newark 
+philadelphia 
+denver 
+san francisco 
+denver 
+denver 
+denver 
+st. louis 
+pittsburgh 
+boston 
+baltimore 
+pittsburgh 
+atlanta 
+dallas 
+boston 
+phoenix 
+miami 
+memphis 
+san francisco 
+pittsburgh 
+boston 
+cleveland 
+pittsburgh 
+atlanta 
+seattle 
+tacoma 
+atlanta 
+denver 
+salt lake city 
+nashville 
+seattle 
+boston 
+atlanta 
+detroit 
+baltimore 
+denver 
+boston 
+boston 
+dallas 
+pittsburgh 
+indianapolis 
+long beach 
+pittsburgh 
+boston 
+philadelphia 
+miami 
+boston 
+pittsburgh 
+dallas 
+milwaukee 
+baltimore or denver or pittsburgh 
+baltimore 
+denver 
+milwaukee 
+milwaukee 
+oakland 
+washington 
+pittsburgh 
+boston 
+san francisco 
+pittsburgh 
+baltimore 
+toronto 
+indianapolis 
+boston 
+atlanta 
+pittsburgh 
+denver 
+oakland 
+st. petersburg 
+philadelphia 
+philadelphia 
+boston 
+boston 
+boston 
+boston 
+milwaukee 
+pittsburgh 
+milwaukee 
+pittsburgh 
+boston 
+dallas fort worth 
+memphis 
+charlotte 
+dallas fort worth 
+philadelphia 
+philadelphia 
+los angeles 
+columbus 
+chicago 
+baltimore 
+philadelphia 
+boston 
+pittsburgh 
+cincinnati 
+denver 
+denver 
+atlanta 
+new york 
+kansas city 
+phoenix 
+cleveland 
+boston 
+detroit 
+denver 
+may four atlanta 
+philadelphia 
+denver 
+boston 
+orlando 
+kansas city 
+washington 
+washington 
+orlando 
+seattle 
+pittsburgh 
+boston 
+denver 
+pittsburgh 
+phoenix 
+atlanta 
+boston 
+san francisco 
+boston 
+pittsburgh 
+boston 
+philadelphia 
+dallas 
+san francisco 
+indianapolis 
+denver 
+pittsburgh 
+san francisco 
+denver 
+dallas 
+oakland 
+boston 
+boston 
+toronto 
+pittsburgh 
+denver 
+denver 
+boston 
+atlanta 
+new york 
+detroit 
+newark 
+denver 
+philadelphia 
+san francisco 
+boston 
+las vegas 
+baltimore 
+memphis 
+pittsburgh 
+atlanta 
+long beach 
+denver 
+atlanta 
+washington 
+oakland 
+philadelphia 
+dallas 
+pittsburgh 
+atlanta 
+long beach 
+phoenix 
+new york 
+tampa 
+burbank 
+denver 
+baltimore 
+las vegas 
+boston 
+pittsburgh 
+boston 
+san diego 
+washington 
+los angeles 
+atlanta 
+boston 
+indianapolis 
+cincinnati 
+denver 
+newark 
+denver 
+denver 
+san francisco 
+boston 
+pittsburgh 
+philadelphia 
+philadelphia 
+tampa 
+san francisco 
+philadelphia 
+oakland 
+dallas fort worth 
+boston 
+atlanta 
+dallas 
+atlanta 
+las vegas 
+boston 
+san francisco 
+denver 
+atlanta 
+boston 
+kansas city 
+memphis 
+philadelphia 
+pittsburgh 
+philadelphia 
+kansas city 
+san francisco 
+denver 
+boston 
+ontario 
+pittsburgh 
+denver 
+pittsburgh 
+indianapolis 
+new york city 
+cincinnati 
+houston 
+charlotte 
+dallas 
+boston 
+boston 
+new york 
+boston 
+pittsburgh 
+san francisco 
+atlanta 
+memphis 
+dallas 
+philadelphia 
+cleveland 
+boston 
+detroit 
+miami 
+st. petersburg 
+atlanta 
+boston 
+orlando 
+dallas fort worth 
+chicago 
+atlanta 
+toronto 
+denver 
+baltimore 
+boston 
+new york city 
+newark 
+boston 
+san francisco 
+st. petersburg 
+dallas 
+pittsburgh 
+los angeles 
+san francisco 
+pittsburgh 
+boston 
+orlando 
+san francisco 
+new york city 
+pittsburgh 
+pittsburgh 
+indianapolis 
+pittsburgh 
+denver 
+miami 
+san francisco 
+boston 
+denver 
+denver 
+boston 
+denver 
+denver 
+philadelphia 
+orlando 
+baltimore 
+philadelphia 
+dallas 
+boston 
+new york 
+seattle 
+indianapolis 
+denver 
+tacoma 
+boston 
+nashville 
+st. paul 
+san francisco 
+pittsburgh 
+memphis 
+san francisco 
+san diego 
+boston 
+atlanta 
+boston 
+boston 
+philadelphia 
+denver 
+philadelphia 
+san francisco 
+denver 
+atlanta 
+oakland 
+boston 
+memphis 
+boston 
+atlanta 
+boston 
+salt lake city 
+pittsburgh 
+denver 
+newark 
+atlanta 
+boston 
+indianapolis 
+san francisco 
+boston 
+denver 
+denver 
+atlanta 
+san jose 
+salt lake city 
+miami 
+kansas city 
+pittsburgh 
+baltimore 
+denver 
+denver 
+boston 
+san francisco 
+boston 
+boston 
+boston 
+pittsburgh 
+atlanta 
+boston 
+denver 
+columbus 
+oakland 
+san francisco 
+atlanta 
+atlanta 
+oakland 
+new york 
+boston 
+boston 
+pittsburgh 
+boston 
+atlanta 
+pittsburgh 
+philadelphia 
+atlanta 
+new york 
+dallas 
+san francisco 
+dallas 
+atlanta 
+baltimore 
+toronto 
+milwaukee 
+philadelphia 
+atlanta 
+denver 
+san francisco 
+new york 
+miami 
+boston 
+denver 
+cincinnati 
+oakland 
+boston 
+pittsburgh 
+denver 
+montreal 
+baltimore 
+philadelphia or denver 
+philadelphia or pittsburgh 
+san francisco 
+new york city 
+philadelphia 
+denver 
+atlanta 
+baltimore 
+denver 
+kansas city 
+phoenix 
+atlanta 
+detroit 
+phoenix 
+philadelphia 
+denver 
+boston 
+denver 
+denver 
+atlanta 
+dallas 
+atlanta 
+boston 
+denver 
+washington 
+atlanta 
+denver 
+dallas 
+pittsburgh 
+pittsburgh 
+boston 
+pittsburgh 
+atlanta 
+memphis 
+baltimore 
+dallas 
+baltimore 
+dallas 
+boston 
+boston 
+dallas 
+boston 
+miami 
+st. paul 
+san jose 
+houston 
+baltimore 
+boston 
+boston 
+milwaukee 
+boston 
+atlanta 
+las vegas 
+boston 
+pittsburgh 
+delta airlines kansas city 
+washington 
+boston 
+toronto 
+boston 
+san francisco denver 
+san francisco boston 
+milwaukee 
+kansas city 
+philadelphia 
+new york 
+seattle 
+washington 
+atlanta 
+pittsburgh 
+boston 
+pittsburgh 
+boston 
+atlanta 
+dallas 
+philadelphia 
+pittsburgh 
+boston 
+milwaukee 
+denver 
+detroit 
+kansas city 
+philadelphia 
+fort worth 
+san jose 
+atlanta 
+boston 
+atlanta 
+pittsburgh 
+san francisco 
+chicago 
+dallas 
+boston 
+atlanta 
+san francisco 
+boston 
+pittsburgh 
+pittsburgh 
+pittsburgh 
+philadelphia 
+chicago 
+boston 
+washington 
+nashville 
+san francisco 
+dallas 
+boston 
+baltimore 
+cleveland 
+boston 
+atlanta 
+pittsburgh 
+pittsburgh 
+boston 
+pittsburgh 
+st. petersburg 
+pittsburgh 
+atlanta 
+chicago 
+denver 
+boston 
+pittsburgh 
+atlanta 
+baltimore 
+milwaukee 
+pittsburgh 
+los angeles 
+boston 
+chicago 
+pittsburgh 
+dallas 
+baltimore 
+charlotte 
+philadelphia 
+boston 
+boston 
+boston 
+pittsburgh 
+washington 
+baltimore 
+baltimore 
+pittsburgh 
+atlanta 
+denver 
+indianapolis 
+denver 
+burbank 
+atlanta 
+atlanta 
+washington 
+baltimore 
+boston 
+boston 
+new york 
+memphis 
+dallas 
+phoenix 
+milwaukee 
+philadelphia 
+orlando 
+dallas 
+philadelphia 
+boston 
+dallas 
+milwaukee 
+boston 
+boston 
+atlanta 
+dallas 
+atlanta 
+charlotte 
+atlanta 
+atlanta 
+denver 
+milwaukee 
+philadelphia 
+new york 
+atlanta 
+la 
+boston 
+long beach 
+atlanta 
+pittsburgh 
+denver 
+charlotte 
+st. petersburg 
+baltimore 
+long beach 
+denver 
+boston 
+nashville 
+denver 
+san francisco 
+philadelphia 
+baltimore 
+denver 
+seattle 
+pittsburgh 
+houston 
+pittsburgh 
+dallas 
+dallas 
+boston 
+pittsburgh 
+atlanta 
+denver 
+boston 
+cleveland 
+atlanta 
+pittsburgh 
+pittsburgh 
+boston 
+boston 
+indianapolis 
+san francisco 
+dallas fort worth 
+boston 
+dallas 
+baltimore 
+indianapolis 
+denver 
+boston 
+long beach 
+denver 
+san francisco 
+boston 
+boston 
+philadelphia 
+denver 
+minneapolis 
+oakland 
+san francisco 
+philadelphia 
+denver 
+columbus 
+atlanta 
+boston 
+atlanta 
+atlanta 
+san francisco 
+philadelphia 
+boston 
+atlanta 
+boston 
+dallas 
+denver 
+atlanta denver 
+pittsburgh 
+boston 
+boston 
+boston 
+pittsburgh 
+atlanta 
+baltimore 
+miami 
+san francisco 
+denver 
+pittsburgh 
+boston 
+philadelphia 
+washington 
+atlanta 
+san diego 
+pittsburgh 
+milwaukee 
+salt lake city 
+denver 
+denver 
+san francisco 
+boston 
+boston 
+indianapolis 
+boston 
+denver 
+dallas 
+minneapolis 
+atlanta 
+philadelphia 
+denver 
+denver 
+san francisco 
+boston 
+nashville 
+cincinnati 
+denver 
+boston 
+new york 
+memphis 
+san diego 
+round trip dallas 
+boston 
+pittsburgh 
+denver 
+baltimore 
+boston 
+san francisco 
+denver 
+denver 
+boston 
+baltimore 
+baltimore 
+pittsburgh 
+atlanta 
+cleveland 
+philadelphia 
+denver 
+atlanta 
+dallas 
+baltimore 
+baltimore 
+philadelphia 
+baltimore 
+newark 
+boston 
+san francisco 
+boston 
+atlanta 
+baltimore 
+denver 
+baltimore 
+denver 
+boston 
+philadelphia 
+toronto 
+toronto 
+oakland 
+baltimore 
+atlanta 
+tampa 
+dallas 
+boston 
+denver 
+denver 
+indianapolis 
+atlanta 
+orlando 
+las vegas 
+dallas 
+san francisco 
+boston 
+philadelphia 
+boston 
+cincinnati 
+washington 
+burbank 
+pittsburgh 
+charlotte 
+philadelphia 
+milwaukee 
+boston 
+boston 
+milwaukee 
+washington 
+atlanta 
+phoenix 
+boston 
+baltimore 
+atlanta 
+newark 
+baltimore 
+pittsburgh 
+phoenix 
+dallas 
+san francisco 
+baltimore 
+boston 
+houston 
+milwaukee 
+ontario 
+denver 
+boston 
+boston 
+atlanta 
+san diego 
+dallas 
+philadelphia 
+oakland 
+philadelphia 
+san francisco 
+philadelphia 
+boston 
+pittsburgh 
+denver 
+pittsburgh 
+atlanta 
+newark 
+pittsburgh 
+dallas 
+pittsburgh 
+dallas 
+dallas fort worth 
+indianapolis 
+dallas 
+boston 
+tampa 
+philadelphia 
+phoenix 
+philadelphia 
+pittsburgh 
+boston 
+denver 
+baltimore 
+boston 
+atlanta 
+atlanta 
+indianapolis 
+boston 
+nashville 
+atlanta 
+san francisco 
+atlanta 
+boston 
+denver 
+milwaukee 
+pittsburgh 
+san diego 
+atlanta 
+dallas 
+boston 
+denver 
+toronto 
+st. petersburg 
+boston 
+denver 
+columbus 
+washington 
+boston 
+charlotte 
+dallas 
+boston 
+boston 
+san francisco 
+pittsburgh 
+new york 
+atlanta 
+san francisco 
+denver 
+atlanta 
+denver or philadelphia or pittsburgh 
+las vegas 
+boston 
+atlanta 
+tampa 
+boston 
+philadelphia 
+memphis 
+new york city 
+philadelphia 
+denver 
+baltimore 
+newark 
+boston 
+detroit 
+san francisco 
+dallas 
+newark 
+kansas city 
+boston 
+kansas city 
+baltimore 
+boston 
+toronto 
+denver 
+new york city 
+kansas city 
+kansas city 
+dallas 
+atlanta 
+philadelphia 
+philadelphia 
+boston 
+chicago 
+pittsburgh 
+pittsburgh 
+montreal 
+san francisco 
+philadelphia 
+pittsburgh 
+charlotte 
+san francisco 
+atlanta 
+san francisco 
+st. paul 
+chicago 
+chicago 
+denver 
+milwaukee 
+denver 
+pittsburgh 
+toronto 
+earliest boston 
+atlanta 
+philadelphia 
+houston 
+denver 
+kansas city 
+st. paul 
+san francisco 
+boston 
+boston 
+denver 
+pittsburgh 
+st. petersburg 
+san jose 
+denver 
+baltimore 
+dallas 
+kansas city 
+philadelphia 
+boston 
+oakland 
+new york city 
+boston 
+chicago 
+pittsburgh 
+las vegas 
+milwaukee 
+boston 
+atlanta 
+boston 
+philadelphia 
+boston 
+atlanta 
+baltimore 
+san francisco 
+boston 
+las vegas 
+san francisco 
+denver 
+newark 
+san francisco 
+san francisco 
+boston 
+denver 
+boston 
+baltimore 
+boston 
+dallas 
+boston 
+denver 
+philadelphia 
+pittsburgh 
+philadelphia 
+denver 
+atlanta 
+kansas city 
+pittsburgh 
+denver 
+cincinnati 
+minneapolis 
+san francisco 
+pittsburgh 
+washington 
+dallas 
+las vegas 
+baltimore 
+denver 
+atlanta 
+boston 
+denver 
+boston 
+oakland 
+denver 
+denver 
+philadelphia 
+miami 
+new york 
+boston 
+denver 
+indianapolis 
+denver 
+cincinnati 
+cincinnati 
+boston 
+denver 
+pittsburgh 
+dallas 
+boston 
+boston 
+boston 
+boston 
+atlanta 
+baltimore 
+charlotte 
+baltimore 
+boston 
+memphis 
+dallas 
+dallas 
+denver 
+san francisco 
+boston 
+dallas 
+baltimore 
+dallas 
+pittsburgh 
+baltimore 
+dallas fort worth 
+toronto 
+atlanta 
+dallas 
+boston 
+san francisco 
+philadelphia 
+los angeles 
+denver 
+denver 
+tuesday san diego 
+atlanta 
+washington 
+dallas 
+charlotte 
+pittsburgh 
+baltimore 
+salt lake city 
+chicago 
+boston 
+dallas fort worth 
+boston 
+cleveland 
+toronto 
+denver 
+dallas 
+charlotte 
+philadelphia 
+pittsburgh 
+chicago 
+denver 
+san francisco 
+toronto 
+denver 
+dallas 
+boston 
+tacoma 
+denver 
+columbus 
+baltimore 
+pittsburgh 
+philadelphia 
+washington 
+baltimore 
+milwaukee 
+dallas fort worth 
+indianapolis 
+denver 
+dallas 
+philadelphia 
+us 3724 baltimore 
+denver 
+charlotte 
+philadelphia 
+baltimore 
+atlanta 
+denver 
+new york 
+newark 
+philadelphia 
+boston 
+atlanta 
+boston 
+milwaukee 
+pittsburgh 
+boston 
+boston 
+denver 
+boston 
+atlanta 
+boston 
+denver 
+philadelphia 
+pittsburgh 
+st. petersburg 
+boston 
+dallas 
+oakland 
+boston 
+washington 
+oakland 
+philadelphia 
+memphis 
+nashville 
+philadelphia 
+dallas 
+cleveland 
+dallas 
+milwaukee 
+boston 
+boston 
+pittsburgh 
+san francisco 
+boston 
+denver 
+milwaukee 
+denver 
+denver 
+boston 
+chicago 
+denver 
+boston 
+pittsburgh 
+pittsburgh 
+pittsburgh 
+washington 
+pittsburgh 
+boston 
+dallas 
+philadelphia 
+dallas 
+boston 
+columbus 
+cleveland 
+philadelphia 
+detroit 
+denver 
+milwaukee 
+boston 
+boston 
+boston 
+miami 
+atlanta 
+boston 
+denver 
+boston 
+atlanta 
+boston 
+montreal 
+boston 
+denver 
+denver 
+oakland 
+minneapolis 
+san diego 
+denver 
+philadelphia 
+san francisco 
+pittsburgh 
+denver 
+boston 
+salt lake city 
+pittsburgh 
+seattle 
+cincinnati 
+nashville 
+dallas 
+milwaukee 
+atlanta 
+baltimore 
+oakland 
+philadelphia 
+newark 
+washington 
+denver 
+long beach 
+denver 
+philadelphia 
+atlanta 
+boston 
+baltimore 
+dallas dallas 
+boston 
+pittsburgh 
+atlanta 
+oakland 
+boston 
+toronto 
+boston 
+las vegas 
+san francisco 
+philadelphia 
+boston 
+pittsburgh 
+denver 
+denver 
+milwaukee 
+baltimore 
+dallas 
+atlanta 
+san diego 
+denver 
+san francisco 
+la 
+san francisco 
+denver 
+dallas 
+boston 
+pittsburgh 
+philadelphia 
+dallas 
+cincinnati 
+atlanta 
+atlanta 
+new york 
+boston 
+philadelphia 
+long beach 
+new york city 
+boston 
+phoenix 
+washington 
+boston 
+atlanta 
+salt lake city 
+dallas 
+las vegas 
+boston 
+atlanta 
+new york 
+ontario 
+denver 
+baltimore 
+milwaukee 
+houston 
+denver 
+baltimore 
+atlanta 
+long beach 
+charlotte 
+dallas 
+las vegas 
+boston 
+new york city 
+pittsburgh 
+atlanta 
+milwaukee 
+tampa 
+atlanta 
+atlanta 
+dallas 
+san francisco 
+boston 
+atlanta 
+philadelphia 
+boston 
+boston 
+denver 
+boston 
+baltimore 
+denver 
+san francisco 
+phoenix 
+chicago 
+phoenix 
+kansas city 
+dallas 
+denver 
+pittsburgh 
+philadelphia 
+boston 
+pittsburgh 
+las vegas 
+denver 
+boston 
+philadelphia 
+philadelphia 
+newark 
+boston 
+san francisco 
+atlanta 
+seattle 
+montreal 
+phoenix 
+milwaukee 
+miami 
+toronto 
+los angeles 
+pittsburgh 
+baltimore 
+pittsburgh 
+baltimore 
+san francisco 
+phoenix 
+miami 
+philadelphia 
+boston 
+atlanta 
+cincinnati 
+charlotte 
+denver 
+new york 
+philadelphia 
+boston 
+baltimore washington 
+boston 
+boston 
+boston 
+boston 
+baltimore 
+boston 
+boston 
+dallas 
+baltimore 
+newark 
+boston 
+atlanta 
+san francisco 
+atlanta 
+denver 
+dallas 
+boston 
+pittsburgh 
+baltimore 
+cleveland 
+pittsburgh 
+pittsburgh 
+kansas city 
+boston 
+indianapolis 
+boston 
+pittsburgh 
+oakland 
+boston 
+dallas dallas 
+new york 
+boston 
+milwaukee 
+boston 
+denver 
+san diego 
+phoenix 
+washington 
+boston 
+charlotte 
+san diego 
+san francisco 
+dallas 
+milwaukee 
+san jose 
+baltimore 
+atlanta 
+philadelphia 
+san francisco 
+boston 
+philadelphia 
+boston 
+boston 
+dallas 
+boston 
+tampa 
+san francisco 
+dallas 
+phoenix 
+atlanta 
+denver 
+dallas 
+houston 
+miami 
+baltimore 
+pittsburgh 
+washington 
+washington 
+charlotte 
+baltimore 
+boston 
+boston 
+cleveland 
+new york city 
+boston 
+san francisco 
+denver 
+philadelphia 
+indianapolis 
+oakland 
+toronto 
+toronto 
+minneapolis 
+philadelphia 
+philadelphia 
+toronto 
+charlotte 
+indianapolis 
+atlanta 
+denver 
+philadelphia 
+newark 
+pittsburgh 
+atlanta 
+salt lake city 
+san francisco 
+denver 
+charlotte 
+atlanta 
+boston 
+philadelphia 
+atlanta 
+boston 
+denver 
+charlotte 
+dallas 
+wednesday morning boston 
+dallas 
+boston 
+phoenix 
+pittsburgh 
+boston 
+denver 
+baltimore 
+boston 
+new york 
+los angeles 
+indianapolis 
+boston 
+boston 
+milwaukee 
+denver 
+san francisco 
+dallas 
+pittsburgh 
+baltimore 
+boston 
+phoenix 
+dl 296 denver 
+boston 
+boston 
+atlanta 
+dallas 
+oakland 
+seattle 
+san francisco 
+baltimore 
+atlanta 
+atlanta 
+minneapolis 
+washington 
+baltimore 
+boston 
+atlanta 
+newark 
+denver 
+pittsburgh 
+atlanta 
+pittsburgh 
+oakland 
+dallas fort worth 
+san francisco 
+pittsburgh 
+philadelphia 
+dallas 
+pittsburgh 
+san francisco 
+boston 
+indianapolis 
+new york 
+san francisco 
+philadelphia 
+baltimore 
+dallas 
+san francisco 
+atlanta 
+boston 
+san diego 
+denver 
+tampa 
+atlanta 
+boston 
+atlanta 
+san francisco 
+dallas 
+pittsburgh 
+denver 
+pittsburgh 
+las vegas 
+st. paul 
+baltimore 
+san francisco 
+san francisco 
+boston 
+baltimore 
+dallas 
+philadelphia 
+pittsburgh 
+philadelphia 
+kansas city 
+long beach 
+dallas fort worth 
+dallas 
+san diego 
+las vegas 
+oakland 
+atlanta 
+boston 
+san francisco 
+washington 
+baltimore 
+dallas 
+denver 
+indianapolis 
+boston 
+pittsburgh 
+phoenix 
+boston 
+boston 
+oakland 
+boston 
+boston 
+philadelphia 
+new york 
+san francisco 
+boston 
+boston 
+boston 
+san jose 
+atlanta 
+pittsburgh 
+kansas city 
+denver 
+san francisco 
+pittsburgh 
+denver 
+boston 
+boston 
+indianapolis 
+dallas 
+pittsburgh 
+pittsburgh 
+denver 
+boston 
+columbus 
+baltimore 
+denver 
+pittsburgh 
+indianapolis 
+miami 
+philadelphia 
+pittsburgh 
+san francisco 
+pittsburgh 
+denver 
+pittsburgh 
+nashville 
+san francisco 
+houston 
+houston 
+tampa 
+denver 
+philadelphia 
+boston 
+oakland 
+pittsburgh 
+dallas 
+montreal 
+indianapolis 
+new york city 
+memphis 
+atlanta 
+atlanta 
+milwaukee 
+denver 
+chicago 
+atlanta 
+pittsburgh 
+seattle 
+denver 
+denver 
+washington 
+denver 
+baltimore 
+chicago 
+boston 
+baltimore 
+boston 
+denver 
+columbus 
+baltimore 
+kansas city 
+salt lake city 
+cincinnati 
+philadelphia 
+dallas 
+boston 
+san francisco 
+baltimore 
+las vegas 
+baltimore 
+toronto 
+dallas 
+baltimore 
+boston 
+boston 
+memphis 
+san francisco 
+pittsburgh 
+boston 
+memphis 
+philadelphia 
+denver 
+pittsburgh 
+oakland 
+boston 
+indianapolis 
+denver 
+charlotte 
+cleveland 
+philadelphia 
+boston 
+las vegas 
+phoenix 
+denver 
+dallas 
+pittsburgh 
+newark 
+miami 
+los angeles 
+new york 
+pittsburgh 
+san francisco 
+pittsburgh 
+baltimore 
+montreal 
+philadelphia 
+pittsburgh 
+chicago 
+san francisco 
+atlanta 
+kansas city 
+san francisco 
+pittsburgh 
+boston 
+boston 
+pittsburgh 
+atlanta 
+los angeles 
+atlanta 
+indianapolis 
+san jose 
+toronto 
+st. petersburg 
+dallas 
+atlanta 
+pittsburgh 
+pittsburgh 
+boston 
+cincinnati 
+new york 
+miami 
+denver 
+philadelphia 
+pittsburgh 
+dallas 
+baltimore 
+san francisco 
+pittsburgh 
+boston 
+oakland 
+columbus 
+atlanta 
+chicago 
+boston 
+boston 
+san francisco 
+boston 
+atlanta 
+ontario 
+pittsburgh 
+denver 
+san francisco 
+st. paul 
+washington 
+pittsburgh 
+miami 
+washington 
+atlanta 
+kansas city 
+dallas 
+pittsburgh 
+las vegas 
+atlanta 
+newark 
+new york 
+boston 
+atlanta 
+los angeles 
+montreal 
+phoenix 
+philadelphia 
+boston 
+atlanta 
+atlanta 
+boston 
+boston 
+denver 
+philadelphia 
+houston 
+atlanta 
+kansas city 
+philadelphia 
+dallas 
+boston 
+boston 
+dallas 
+boston 
+washington 
+newark 
+atlanta 
+milwaukee 
+boston 
+oakland 
+milwaukee 
+san francisco 
+denver 
+boston 
+san francisco 
+atlanta 
+san francisco 
+chicago 
+philadelphia 
+ontario 
+denver 
+boston 
+toronto 
+denver 
+baltimore 
+boston 
+washington 
+philadelphia 
+denver 
+seattle 
+pittsburgh 
+atlanta 
+boston 
+san jose 
+oakland 
+atlanta 
+denver 
+cleveland 
+baltimore 
+boston 
+denver 
+baltimore 
+san francisco 
+boston 
+los angeles 
+atlanta 
+boston 
+boston 
+pittsburgh 
+pittsburgh 
+philadelphia 
+boston 
+miami 
+atlanta's 
+dallas 
+boston 
+pittsburgh 
+atlanta 
+baltimore 
+boston 
+memphis 
+tampa 
+boston 
+phoenix 
+oakland 
+boston 
+tampa 
+pittsburgh 
+new york 
+philadelphia 
+miami 
+denver 
+dallas fort worth 
+atlanta 
+burbank 
+boston 
+new york 
+indianapolis 
+chicago 
+orlando 
+san diego 
+atlanta 
+boston 
+san francisco 
+dallas 
+dallas 
+st. petersburg 
+washington 
+boston 
+atlanta 
+denver 
+atlanta 
+newark 
+boston 
+boston 
+tampa 
+atlanta 
+denver 
+dallas 
+nashville 
+nashville 
+denver 
+atlanta 
+boston 
+denver 
+st. petersburg 
+atlanta 
+denver 
+san francisco 
+st. petersburg 
+detroit 
+cincinnati 
+san francisco 
+washington 
+philadelphia 
+newark 
+denver 
+oakland 
+minneapolis 
+pittsburgh 
+baltimore 
+dallas 
+boston 
+atlanta 
+dallas 
+atlanta 
+boston 
+denver 
+nashville 
+philadelphia 
+indianapolis 
+baltimore 
+denver 
+atlanta 
+dallas 
+baltimore denver 
+pittsburgh 
+denver 
+long beach 
+philadelphia 
+boston 
+baltimore 
+boston 
+boston 
+st. petersburg 
+baltimore 
+nashville 
+denver 
+oakland 
+chicago 
+dallas 
+baltimore 
+los angeles 
+boston 
+philadelphia 
+boston 
+boston 
+pittsburgh 
+atlanta 
+boston 
+boston 
+boston 
+chicago 
+denver 
+kansas city 
+san francisco 
+houston 
+tampa 
+las vegas 
+pittsburgh 
+tacoma 
+philadelphia 
+boston 
+denver 
+boston 
+san francisco 
+dallas 
+atlanta 
+indianapolis 
+seattle 
+st. petersburg 
+pittsburgh 
+pittsburgh 
+pittsburgh 
+san francisco 
+boston 
+pittsburgh 
+washington 
+baltimore 
+denver 
+atlanta 
+philadelphia 
+san francisco 
+baltimore 
+philadelphia 
+pittsburgh 
+pittsburgh 
+san francisco 
+pittsburgh 
+boston 
+new york 
+philadelphia 
+las vegas 
+indianapolis 
+boston 
+kansas city 
+boston 
+pittsburgh 
+baltimore 
+cleveland 
+pittsburgh 
+denver 
+atlanta 
+miami 
+st. louis 
+new york 
+denver 
+philadelphia 
+denver 
+indianapolis 
+dallas 
+dallas 
+pittsburgh 
+baltimore 
+boston 
+seattle 
+pittsburgh 
+baltimore 
+denver 
+atlanta 
+charlotte 
+denver 
+boston 
+san francisco 
+philadelphia 
+boston 
+boston 
+pittsburgh 
+denver 
+toronto 
+los angeles 
+columbus 
+new york 
+dallas 
+milwaukee 
+boston 
+denver 
+san francisco 
+philadelphia 
+toronto 
+st. paul 
+phoenix 
+philadelphia 
+boston 
+pittsburgh 
+baltimore 
+boston 
+milwaukee 
+nashville 
+pittsburgh 
+baltimore 
+pittsburgh 
+boston 
+boston 
+toronto 
+pittsburgh 
+phoenix 
+san diego 
+columbus 
+oakland 
+atlanta 
+atlanta 
+philadelphia 
+denver 
+denver 
+milwaukee 
+baltimore 
+san francisco 
+pittsburgh 
+baltimore 
+orlando 
+baltimore 
+newark 
+baltimore 
+pittsburgh 
+pittsburgh 
+boston 
+atlanta 
+baltimore 
+boston 
+new york city 
+baltimore 
+boston 
+tampa 
+san francisco 
+boston 
+atlanta 
+philadelphia 
+denver 
+atlanta 
+pittsburgh 
+pittsburgh 
+dallas 
+houston 
+pittsburgh 
+san jose 
+cleveland 
+boston 
+new york 
+washington 
+boston 
+newark 
+atlanta 
+pittsburgh 
+denver 
+pittsburgh 
+toronto 
+atlanta 
+boston 
+atlanta 
+new york 
+boston 
+earliest boston 
+latest atlanta 
+boston 
+denver 
+boston 
+memphis 
+seattle 
+atlanta 
+boston 
+denver 
+miami 
+boston 
+washington 
+atlanta 
+dallas 
+cincinnati 
+boston 
+boston 
+boston 
+atlanta 
+denver 
+san francisco 
+indianapolis 
+new york 
+denver 
+boston 
+las vegas 
+baltimore 
+boston 
+san francisco 
+pittsburgh 
+denver 
+dallas 
+pittsburgh 
+denver 
+denver 
+st. paul 
+philadelphia 
+boston 
+pittsburgh 
+boston 
+denver 
+boston 
+boston 
+orlando 
+denver 
+denver 
+boston 
+washington 
+atlanta 
+philadelphia 
+newark 
+boston 
+washington 
+pittsburgh 
+atlanta 
+denver 
+denver 
+cleveland 
+baltimore 
+phoenix 
+nashville 
+boston 
+atlanta 
+baltimore 
+boston 
+baltimore 
+denver 
+newark 
+new york 
+montreal 
+phoenix 
+milwaukee 
+boston 
+columbus 
+atlanta 
+san diego 
+baltimore 
+washington 
+boston 
+dallas 
+denver 
+miami 
+philadelphia 
+denver 
+boston 
+dallas 
+indianapolis 
+san francisco 
+boston 
+boston 
+atlanta 
+columbus 
+pittsburgh 
+san francisco 
+toronto 
+atlanta 
+atlanta 
+boston 
+atlanta 
+san francisco 
+baltimore 
+boston 
+westchester county 
+san francisco 
+toronto 
+dallas 
+pittsburgh 
+boston 
+philadelphia 
+atlanta 
+denver 
+milwaukee 
+burbank 
+cincinnati 
+atlanta 
+baltimore 
+atlanta 
+pittsburgh 
+pittsburgh 
+denver 
+denver 
+denver 
+dallas 
+atlanta 
+pittsburgh 
+san francisco 
+boston 
+san jose 
+miami 
+boston 
+nashville 
+newark 
+denver 
+washington 
+dallas 
+boston 
+philadelphia 
+dallas 
+san francisco 
+denver 
+denver 
+atlanta 
+pittsburgh 
+denver 
+pittsburgh 
+san francisco 
+denver 
+dallas 
+denver 
+baltimore 
+boston 
+boston 
+denver 
+st. paul 
+st. paul 
+dallas 
+philadelphia 
+atlanta 
+san francisco 
+san francisco 
+atlanta 
+ontario 
+minneapolis 
+boston 
+st. louis 
+boston 
+boston 
+denver 
+boston 
+san francisco 
+chicago 
+cleveland 
+newark 
+pittsburgh 
+pittsburgh 
+dallas 
+boston 
+san francisco 
+boston 
+boston 
+philadelphia 
+boston 
+philadelphia 
+phoenix 
+atlanta 
+boston 
+atlanta 
+tacoma 
+pittsburgh 
+atlanta 
+philadelphia 
+baltimore 
+pittsburgh 
+pittsburgh 
+atlanta 
+boston 
+denver 
+san francisco 
+philadelphia 
+baltimore 
+philadelphia 
+denver 
+boston 
+boston 
+montreal 
+denver 
+san francisco 
+ontario 
+milwaukee 
+denver 
+atlanta 
+san francisco 
+atlanta 
+indianapolis 
+ontario 
+charlotte 
+cleveland 
+boston 
+baltimore 
+charlotte 
+denver 
+dallas 
+boston 
+pittsburgh 
+pittsburgh 
+dallas 
+phoenix 
+dallas 
+dallas 
+dallas 
+dallas 
+pittsburgh 
+dallas 
+atlanta 
+pittsburgh 
+atlanta 
+baltimore 
+orlando 
+long beach 
+boston 
+dallas 
+denver 
+toronto 
+orlando 
+boston 
+baltimore 
+baltimore 
+baltimore 
+san diego 
+boston 
+boston 
+atlanta 
+boston 
+san diego 
+baltimore 
+dallas 
+newark 
+san francisco 
+pittsburgh 
+philadelphia 
+atlanta 
+st. paul 
+boston 
+philadelphia 
+boston 
+boston 
+boston 
+philadelphia 
+philadelphia 
+baltimore 
+denver 
+dallas 
+denver 
+boston 
+denver 
+baltimore 
+denver 
+denver 
+new york city 
+dallas 
+denver 
+boston 
+philadelphia 
+san francisco 
+phoenix 
+denver 
+boston 
+pittsburgh 
+baltimore 
+pittsburgh 
+pittsburgh 
+las vegas 
+denver 
+denver 
+boston 
+chicago 
+philadelphia 
+chicago 
+boston 
+kansas city 
+philadelphia 
+pittsburgh 
+philadelphia 
+philadelphia 
+atlanta 
+denver 
+charlotte 
+pittsburgh 
+chicago 
+baltimore 
+oakland 
+atlanta 
+atlanta 
+denver 
+baltimore 
+milwaukee 
+memphis 
+atlanta 
+san francisco 
+denver 
+atlanta 
+tampa 
+denver 
+denver 
+boston 
+philadelphia 
+boston 
+philadelphia 
+atlanta 
+detroit 
+boston 
+charlotte 
+oakland 
+boston 
+boston 
+boston 
+boston 
+atlanta 
+dallas 
+pittsburgh 
+boston 
+charlotte 
+atlanta 
+dallas 
+baltimore 
+dallas 
+san jose 
+kansas city 
+dallas 
+boston 
+atlanta 
+san jose 
+miami 
+boston 
+san francisco 
+boston 
+chicago 
+tampa 
+boston 
+pittsburgh 
+atlanta 
+dallas 
+oakland 
+detroit 
+st. petersburg 
+boston 
+washington 
+oakland 
+atlanta 
+boston 
+boston 
+new york 
+newark 
+boston 
+baltimore 
+boston 
+atlanta 
+atlanta 
+miami 
+philadelphia 
+baltimore 
+minneapolis 
+st. paul 
+long beach 
+denver 
+atlanta 
+san francisco 
+baltimore 
+atlanta 
+pittsburgh 
+dallas 
+washington 
+oakland 
+atlanta 
+boston 
+atlanta 
+boston 
+san diego 
+boston 
+denver 
+charlotte 
+pittsburgh 
+denver 
+philadelphia 
+boston 
+dallas 
+houston 
+toronto 
+boston 
+baltimore 
+memphis 
+washington 
+charlotte 
+san jose 
+denver 
+baltimore 
+pittsburgh 
+detroit 
+san francisco 
+boston 
+dallas 
+milwaukee 
+denver 
+washington 
+new york city 
+denver 
+newark 
+pittsburgh 
+boston 
+san francisco 
+san francisco 
+philadelphia 
+washington 
+new york city 
+boston 
+baltimore 
+kansas city 
+los angeles 
+dallas 
+boston 
+atlanta 
+boston 
+atlanta 
+atlanta 
+denver 
+denver 
+new york 
+denver 
+denver 
+philadelphia 
+washington 
+baltimore 
+atlanta 
+washington 
+denver 
+chicago 
+april twenty seventh denver 
+boston 
+oakland 
+baltimore 
+denver 
+san francisco 
+boston 
+baltimore 
+new york 
+orlando 
+boston 
+atlanta 
+san francisco 
+pittsburgh 
+pittsburgh 
+denver 
+denver 
+baltimore 
+pittsburgh 
+boston 
+pittsburgh 
+boston 
+st. louis 
+atlanta 
+san francisco 
+washington 
+san diego 
+boston 
+new york 
+kansas city 
+dallas 
+denver 
+pittsburgh 
+phoenix 
+denver 
+atlanta 
+denver 
+indianapolis 
+miami 
+atlanta 
+pittsburgh 
+new york 
+boston 
+baltimore 
+atlanta 
+philadelphia 
+oakland 
+atlanta 
+boston 
+baltimore 
+houston 
+pittsburgh 
+atlanta 
+san francisco 
+new york 
+boston 
+atlanta 
+boston 
+dallas 
+memphis 
+boston 
+new york 
+pittsburgh 
+boston 
+boston 
+phoenix 
+minneapolis 
+new york 
+baltimore 
+oakland 
+miami 
+tampa 
+los angeles 
+boston 
+san diego 
+san francisco 
+nashville 
+boston 
+denver 
+new york 
+detroit 
+atlanta 
+denver 
+pittsburgh 
+san francisco 
+baltimore 
+washington 
+phoenix 
+atlanta 
+cleveland 
+san francisco 
+philadelphia 
+pittsburgh 
+new york 
+boston 
+boston 
+boston 
+boston 
+minneapolis 
+pittsburgh 
+atlanta 
+pittsburgh 
+memphis 
+denver 
+baltimore 
+dallas 
+oakland 
+boston 
+boston 
+philadelphia 
+indianapolis 
+indianapolis 
+montreal 
+cleveland 
+philadelphia 
+st. paul 
+oakland 
+boston 
+st. petersburg 
+pittsburgh 
+charlotte 
+seattle 
+philadelphia 
+boston 
+chicago 
+boston 
+new york 
+denver 
+baltimore 
+indianapolis 
+san diego 
+philadelphia 
+salt lake city 
+atlanta 
+baltimore 
+cleveland 
+pittsburgh 
+denver 
+philadelphia 
+atlanta 
+san francisco 
+san francisco 
+boston 
+pittsburgh 
+atlanta 
+st. paul 
+orlando 
+pittsburgh 
+new york city 
+memphis 
+toronto 
+denver 
+san francisco 
+minneapolis 
+san francisco 
+pittsburgh 
+charlotte 
+atlanta 
+boston 
+san francisco 
+st. louis 
+baltimore 
+kansas city 
+miami 
+las vegas 
+baltimore 
+san francisco 
+denver 
+pittsburgh 
+chicago 
+boston 
+denver 
+milwaukee 
+cincinnati 
+boston 
+denver 
+dallas 
+phoenix 
+boston 
+boston 
+philadelphia 
+atlanta 
+columbus 
+denver 
+tacoma 
+denver 
+baltimore 
+denver 
+denver 
+philadelphia 
+pittsburgh 
+atlanta 
+atlanta 
+boston 
+denver 
+denver 
+boston 
+ontario 
+boston 
+pittsburgh 
+boston 
+long beach 
+dallas 
+washington 
+boston 
+boston 
+milwaukee 
+long beach 
+seattle 
+san francisco 
+denver 
+philadelphia 
+baltimore 
+baltimore 
+san francisco 
+milwaukee 
+boston 
+denver 
+washington 
+tampa 
+dallas 
+san francisco 
+boston 
+boston 
+denver 
+pittsburgh 
+pittsburgh 
+baltimore 
+salt lake city 
+atlanta 
+boston 
+atlanta 
+oakland 
+detroit 
+kansas city 
+washington 
+boston 
+denver 
+denver 
+salt lake city 
+denver 
+cincinnati 
+indianapolis 
+baltimore 
+san francisco 
+indianapolis 
+philadelphia 
+boston 
+denver 
+nashville 
+atlanta 
+st. petersburg 
+washington 
+pittsburgh 
+tampa 
+boston 
+boston 
+baltimore 
+dallas 
+denver 
+philadelphia 
+san francisco 
+ontario 
+baltimore 
+baltimore 
+san diego 
+denver 
+pittsburgh 
+new york city 
+denver 
+boston 
+oakland 
+boston 
+boston 
+denver 
+pittsburgh 
+newark 
+atlanta 
+miami 
+atlanta 
+montreal 
+baltimore 
+dallas 
+pittsburgh 
+san francisco 
+san francisco 
+kansas city 
+dallas 
+san francisco 
+denver 
+denver 
+philadelphia 
+san francisco 
+st. paul 
+boston 
+atlanta 
+dallas 
+chicago 
+oakland 
+pittsburgh 
+denver 
+pittsburgh 
+philadelphia 
+dallas 
+denver 
+atlanta 
+baltimore 
+denver 
+philadelphia 
+boston 
+new york 
+philadelphia 
+dallas 
+oakland 
+denver 
+baltimore 
+baltimore 
+san francisco 
+tacoma 
+san francisco 
+pittsburgh 
+baltimore 
+denver 
+pittsburgh 
+dallas 
+montreal 
+atlanta 
+san francisco 
+st. paul 
+boston 
+boston 
+san diego 
+pittsburgh 
+chicago 
+boston 
+atlanta 
+boston 
+boston 
+atlanta 
+oakland 
+san diego 
+atlanta 
+kansas city 
+chicago 
+las vegas 
+denver 
+atlanta 
+denver 
+dallas 
+denver 
+denver 
+los angeles 
+pittsburgh 
+boston 
+boston 
+denver 
+boston 
+charlotte 
+phoenix 
+new york city 
+atlanta 
+atlanta 
+pittsburgh 
+dallas 
+philadelphia 
+pittsburgh 
+dallas 
+san francisco 
+oakland 
+charlotte 
+atlanta 
+boston 
+denver 
+atlanta 
+denver 
+denver 
+baltimore 
+philadelphia 
+denver 
+salt lake city 
+atlanta 
+boston 
+st. petersburg 
+newark 
+pittsburgh 
+dallas 
+atlanta 
+boston 
+boston 
+boston 
+boston 
+dallas 
+denver 
+st. petersburg 
+milwaukee 
+boston 
+las vegas 
+kansas city 
+boston 
+pittsburgh 
+denver 
+boston 
+la 
+boston 
+denver 
+atlanta 
+denver 
+denver 
+pittsburgh 
+chicago 
+denver 
+atlanta 
+san francisco 
+dallas 
+atlanta 
+boston 
+memphis 
+denver 
+dallas 
+denver 
+boston 
+philadelphia 
+boston 
+boston 
+boston 
+denver 
+boston 
+boston 
+denver 
+oakland 
+boston 
+san francisco 
+philadelphia 
+toronto 
+boston 
+oakland 
+boston 
+san francisco 
+san francisco 
+dallas 
+philadelphia 
+washington 
+boston 
+atlanta 
+milwaukee 
+miami 
+san francisco 
+san francisco 
+boston 
+denver 
+denver 
+san francisco 
+baltimore 
+boston 
+pittsburgh 
+baltimore 
+boston 
+phoenix 
+salt lake city 
+denver 
+st. petersburg 
+baltimore 
+denver 
+denver 
+philadelphia 
+boston 
+philadelphia 
+philadelphia 
+toronto 
+boston 
+pittsburgh 
+houston 
+philadelphia 
+atlanta 
+boston 
+boston 
+new york 
+boston 
+san francisco 
+atlanta 
+columbus 
+atlanta 
+boston 
+baltimore 
+denver 
+boston 
+atlanta 
+dallas 
+miami 
+baltimore 
+miami 
+baltimore 
+atlanta 
+charlotte 
+columbus 
+dallas 
+boston 
+boston 
+baltimore 
+baltimore 
+pittsburgh 
+philadelphia 
+baltimore 
+philadelphia 
+boston 
+milwaukee 
+houston 
+st. louis 
+cleveland 
+atlanta 
+baltimore 
+denver 
+baltimore 
+baltimore or denver or pittsburgh 
+denver 
+pittsburgh 
+atlanta 
+dallas 
+new york city 
+dallas 
+nashville 
+dallas 
+boston 
+la 
+baltimore 
+philadelphia 
+atlanta 
+boston 
+denver 
+denver 
+boston 
+pittsburgh 
+milwaukee 
+tacoma 
+toronto 
+denver 
+detroit 
+dallas 
+denver 
+pittsburgh 
+washington 
+oakland 
+philadelphia 
+pittsburgh 
+atlanta 
+phoenix 
+denver 
+baltimore 
+boston 
+san francisco 
+round trip houston 
+denver 
+boston 
+tampa 
+baltimore 
+burbank 
+chicago 
+denver 
+atlanta 
+la 
+las vegas 
+charlotte 
+new york 
+pittsburgh 
+us air boston 
+columbus 
+detroit 
+dallas 
+baltimore 
+oakland 
+dallas 
+pittsburgh 
+boston 
+washington 
+dallas fort worth 
+atlanta 
+san francisco 
+miami 
+san francisco 
+atlanta 
+pittsburgh 
+baltimore 
+denver 
+philadelphia 
+baltimore 
+cincinnati 
+boston 
+pittsburgh 
+baltimore 
+washington 
+pittsburgh 
+boston 
+dallas 
+boston 
+philadelphia 
+baltimore 
+los angeles 
+charlotte 
+denver 
+baltimore 
+san francisco 
+boston 
+denver 
+denver 
+baltimore 
+long beach 
+charlotte 
+boston 
+boston 
+atlanta 
+atlanta 
+new york 
+washington 
+chicago 
+pittsburgh 
+chicago 
+dallas 
+houston 
+chicago 
+philadelphia 
+minneapolis 
+seattle 
+washington 
+baltimore 
+cleveland 
+boston 
+boston 
+washington 
+denver 
+san francisco 
+philadelphia 
+baltimore 
+new york 
+oakland 
+seattle 
+boston 
+pittsburgh 
+atlanta 
+milwaukee 
+dallas 
+san francisco 
+san francisco 
+denver 
+boston 
+boston 
+long beach 
+baltimore or denver or pittsburgh 
+baltimore 
+washington 
+atlanta 
+montreal 
+denver 
+boston 
+atlanta 
+denver 
+baltimore oakland 
+san francisco 
+denver 
+atlanta 
+philadelphia 
+charlotte 
+baltimore 
+baltimore 
+westchester county 
+philadelphia 
+boston 
+pittsburgh 
+atlanta 
+denver 
+atlanta 
+pittsburgh 
+st. petersburg 
+new york 
+atlanta 
+pittsburgh 
+memphis 
+phoenix 
+pittsburgh 
+phoenix 
+boston 
+boston 
+boston 
+baltimore 
+new york 
+washington 
+philadelphia 
+san francisco 
+denver 
+baltimore 
+charlotte 
+boston 
+cleveland 
+boston 
+ontario 
+kansas city 
+philadelphia 
+san francisco 
+denver 
+memphis 
+atlanta 
+new york 
+san francisco 
+atlanta 
+boston 
+indianapolis 
+dallas 
+indianapolis nashville memphis 
+nashville 
+pittsburgh 
+atlanta 
+pittsburgh 
+toronto 
+baltimore 
+cincinnati 
+denver 
+dallas 
+boston 
+las vegas 
+philadelphia 
+washington 
+washington 
+miami 
+pittsburgh 
+pittsburgh 
+atlanta 
+dallas fort worth 
+boston 
+san diego 
+boston 
+boston 
+new york 
+miami 
+atlanta 
+new york 
+boston 
+boston 
+st. petersburg 
+san francisco 
+philadelphia 
+boston 
+washington 
+baltimore 
+baltimore 
+boston 
+atlanta 
+denver 
+baltimore 
+denver 
+atlanta 
+fort worth 
+dallas 
+miami 
+dallas 
+miami 
+philadelphia 
+boston 
+memphis 
+denver 
+pittsburgh 
+atlanta 
+baltimore 
+boston 
+san francisco 
+boston 
+boston 
+boston 
+washington 
+denver 
+new york city 
+denver 
+boston 
+boston 
+denver 
+phoenix 
+burbank 
+boston 
+atlanta 
+san francisco 
+las vegas 
+new york 
+san diego 
+dallas 
+cleveland 
+atlanta 
+boston 
+boston 
+atlanta 
+atlanta 
+salt lake city 
+boston 
+washington 
+new york 
+memphis 
+san francisco 
+denver 
+dallas 
+dallas 
+denver 
+dallas 
+boston 
+milwaukee 
+atlanta 
+baltimore 
+boston 
+boston 
+boston 
+denver 
+miami 
+boston 
+orlando 
+toronto 
+washington 
+boston 
+orlando 
+philadelphia 
+boston 
+denver 
+miami 
+boston 
+boston 
+la 
+toronto 
+san diego 
+indianapolis 
+baltimore 
+san francisco 
+pittsburgh 
+new york 
+philadelphia 
+san diego 
+denver 
+oakland 
+atlanta 
+boston 
+philadelphia 
+baltimore 
+baltimore 
+cincinnati 
+new york city 
+los angeles 
+philadelphia 
+dallas 
+new york 
+denver 
+philadelphia 
+san francisco 
+washington 
+baltimore 
+boston 
+phoenix 
+toronto 
+denver 
+boston 
+new york 
+denver 
+atlanta 
+boston 
+tacoma 
+dallas 
+philadelphia 
+new york 
+san francisco atlanta 
+san jose 
+baltimore 
+boston 
+atlanta 
+philadelphia 
+san francisco 
+tampa 
+newark 
+atlanta 
+tampa 
+philadelphia 
+pittsburgh 
+denver 
+newark 
+atlanta 
+philadelphia 
+denver 
+dallas fort worth 
+atlanta 
+philadelphia 
+washington 
+denver 
+pittsburgh 
+pittsburgh 
+nashville 
+atlanta 
+philadelphia 
+san francisco 
+memphis 
+atlanta 
+new york city 
+denver 
+washington 
+montreal 
+boston 
+tampa 
+boston 
+dallas 
+dallas 
+philadelphia 
+boston 
+denver 
+philadelphia 
+pittsburgh 
+boston 
+san francisco 
+charlotte 
+kansas city 
+chicago 
+nashville 
+boston 
+atlanta 
+baltimore 
+denver 
+pittsburgh 
+baltimore 
+dallas 
+boston 
+oakland 
+atlanta 
+atlanta 
+denver 
+milwaukee 
+toronto 
+dallas 
+st. paul 
+pittsburgh 
+boston 
+baltimore 
+pittsburgh 
+newark 
+oakland 
+boston 
+baltimore or washington 
+san francisco 
+milwaukee 
+cleveland 
+toronto 
+denver 
+boston 
+boston 
+atlanta 
+boston 
+boston 
+los angeles 
+us 771 pittsburgh 
+boston 
+pittsburgh 
+washington 
+orlando 
+philadelphia 
+washington 
+chicago 
+philadelphia 
+boston 
+san francisco 
+baltimore 
+denver 
+denver 
+dallas 
+dallas 
+philadelphia 
+denver 
+san francisco 
+denver 
+atlanta 
+pittsburgh 
+indianapolis 
+atlanta 
+boston 
+san francisco 
+boston 
+atlanta 
+pittsburgh 
+san diego 
+dallas 
+newark 
+chicago 
+boston 
+denver dallas 
+pittsburgh 
+pittsburgh 
+st. petersburg 
+washington 
+boston 
+st. paul 
+denver 
+atlanta 
+cleveland 
+atlanta 
+san francisco 
+indianapolis 
+boston 
+atlanta 
+denver 
+washington 
+boston 
+boston 
+denver 
+san francisco 
+pittsburgh 
+cleveland 
+toronto 
+atlanta 
+boston 
+boston 
+houston 
+pittsburgh 
+salt lake city 
+baltimore 
+toronto 
+st. petersburg 
+boston 
+cleveland 
+phoenix 
+philadelphia 
+milwaukee 
+new york 
+kansas city 
+denver 
+oakland 
+baltimore 
+denver 
+boston 
+dallas 
+pittsburgh 
+one way tampa 
+nashville 
+atlanta 
+atlanta 
+milwaukee 
+houston 
+dallas fort worth 
+denver 
+denver 
+philadelphia 
+boston 
+denver 
+salt lake city 
+boston 
+oakland 
+phoenix 
+boston 
+baltimore 
+indianapolis 
+st. petersburg 
+denver 
+boston 
+nashville 
+boston 
+boston 
+pittsburgh 
+atlanta 
+milwaukee 
+atlanta 
+san francisco 
+denver 
+boston 
+atlanta 
+boston 
+philadelphia 
+dallas 
+kansas city 
+dallas 
+dallas 
+atlanta 
+boston 
+philadelphia 
+boston 
+pittsburgh 
+atlanta 
+denver 
+boston 
+cincinnati 
+boston 
+san francisco 
+minneapolis 
+dallas 
+dallas fort worth 
+philadelphia 
+denver 
+nashville 
+montreal 
+westchester county 
+nashville 
+boston 
+pittsburgh 
+denver 
+san francisco 
+philadelphia 
+boston 
+san francisco 
+minneapolis 
+los angeles 
+oakland 
+new york 
+denver 
+new york 
+pittsburgh 
+denver 
+washington 
+philadelphia 
+atlanta 
+denver 
+dallas 
+toronto 
+san francisco 
+indianapolis 
+new york 
+tampa 
+baltimore 
+philadelphia 
+dallas 
+boston 
+las vegas 
+pittsburgh 
+atlanta 
+houston 
+boston 
+baltimore 
+denver 
+denver 
+denver 
+baltimore 
+boston 
+atlanta 
+atlanta 
+dallas 
+philadelphia 
+boston 
+indianapolis 
+pittsburgh 
+milwaukee 
+pittsburgh 
+dallas 
+dallas 
+san diego 
+nashville 
+st. louis 
+denver 
+washington 
+denver 
+minneapolis 
+oakland 
+phoenix 
+washington 
+boston 
+san jose 
+newark 
+baltimore 
+baltimore 
+memphis 
+newark 
+boston 
+denver 
+chicago 
+san francisco 
+denver 
+boston 
+pittsburgh 
+philadelphia 
+philadelphia 
+denver 
+boston 
+denver 
+baltimore 
+minneapolis 
+boston 
+dallas fort worth 
+pittsburgh 
+minneapolis 
+boston 
+philadelphia 
+oakland 
+boston 
+denver 
+boston 
+atlanta 
+pittsburgh 
+boston 
+newark 
+dallas 
+philadelphia 
+baltimore 
+denver 
+philadelphia 
+washington 
+atlanta 
+kansas city 
+boston 
+denver 
+boston 
+oakland 
+denver 
+dallas fort worth 
+dallas fort worth 
+oakland 
+new york 
+denver 
+atlanta 
+philadelphia 
+philadelphia 
+us 3724 baltimore 
+pittsburgh 
+phoenix 
+baltimore 
+houston 
+pittsburgh 
+denver 
+denver 
+chicago 
+dallas 
+dallas 
+atlanta 
+atlanta 
+montreal 
+washington 
+philadelphia 
+atlanta 
+pittsburgh 
+boston 
+new york 
+tampa 
+boston 
+denver 
+long beach 
+atlanta 
+philadelphia 
+san francisco 
+boston 
+boston 
+philadelphia 
+philadelphia 
+denver 
+indianapolis 
+pittsburgh 
+new york 
+denver 
+pittsburgh 
+denver 
+oakland 
+tacoma 
+pittsburgh 
+los angeles 
+atlanta 
+new york 
+minneapolis 
+atlanta 
+baltimore 
+pittsburgh 
+denver 
+dallas 
+new york 
+philadelphia 
+pittsburgh 
+denver 
+houston 
+la 
+denver 
+denver 
+new york city 
+san francisco 
+boston 
+denver 
+kansas city 
+dallas 
+denver 
+dallas 
+dallas 
+chicago 
+pittsburgh 
+san francisco 
+milwaukee 
+baltimore 
+st. petersburg 
+dallas 
+boston 
+boston 
+charlotte 
+philadelphia 
+san francisco 
+dallas 
+dallas 
+boston 
+boston 
+philadelphia 
+baltimore 
+boston 
+chicago 
+milwaukee 
+atlanta 
+pittsburgh 
+new york 
+washington 
+pittsburgh 
+milwaukee 
+boston 
+newark 
+denver 
+philadelphia 
+long beach 
+denver 
+san jose 
+denver 
+baltimore 
+denver 
+las vegas 
+atlanta 
+denver 
+phoenix 
+boston 
+boston 
+boston 
+denver 
+dallas 
+charlotte 
+april twenty second dallas 
+san francisco 
+san francisco 
+tampa 
+boston 
+st. louis 
+san francisco 
+san francisco 
+montreal 
+cleveland 
+pittsburgh 
+pittsburgh 
+baltimore 
+boston 
+long beach 
+atlanta 
+atlanta 
+baltimore 
+san francisco 
+boston 
+indianapolis 
+pittsburgh 
+new york 
+washington 
+dallas 
+denver 
+baltimore 
+detroit 
+atlanta 
+philadelphia 
+washington 
+denver 
+westchester county 
+denver 
+newark 
+washington 
+atlanta 
+boston 
+boston 
+dallas 
+dallas 
+dallas 
+atlanta 
+san francisco 
+denver 
+denver 
+tampa 
+oakland 
+new york 
+dallas fort worth 
+pittsburgh 
+baltimore 
+oakland 
+chicago 
+dallas 
+pittsburgh 
+newark 
+boston 
+st. petersburg 
+boston 
+boston 
+orlando 
+new york 
+boston 
+boston 
+cincinnati 
+houston 
+dallas 
+denver 
+kansas city 
+baltimore 
+phoenix 
+newark 
+pittsburgh 
+denver 
+boston 
+dallas 
+dallas 
+boston 
+baltimore 
+atlanta 
+boston 
+san francisco 
+baltimore 
+cleveland 
+washington 
+denver 
+pittsburgh 
+pittsburgh 
+baltimore 
+dallas 
+pittsburgh 
+boston 
+boston 
+philadelphia 
+denver 
+baltimore 
+milwaukee 
+philadelphia 
+dallas 
+houston 
+san francisco 
+philadelphia 
+denver 
+denver 
+boston 
+denver 
+boston 
+pittsburgh 
+san francisco 
+tacoma 
+pittsburgh 
+columbus 
+cleveland 
+pittsburgh 
+boston 
+dallas 
+san diego 
+boston 
+boston 
+denver 
+baltimore 
+dallas dallas 
+boston 
+boston 
+denver 
+san diego 
+denver 
+denver 
+atlanta 
+denver pittsburgh 
+boston 
+dallas 
+baltimore 
+new york 
+new york 
+philadelphia 
+dallas 
+pittsburgh 
+st. louis 
+pittsburgh 
+baltimore 
+indianapolis 
+new york 
+pittsburgh 
+boston 
+charlotte 
+san francisco 
+newark 
+boston 
+atlanta 
+boston 
+san francisco 
+denver 
+dallas 
+denver 
+toronto 
+burbank 
+san francisco 
+philadelphia 
+boston 
+boston 
+san francisco 
+denver 
+seattle 
+boston 
+pittsburgh 
+denver 
+indianapolis 
+meal oakland 
+atlanta 
+baltimore 
+baltimore 
+atlanta 
+san jose 
+san francisco 
+baltimore 
+boston 
+boston 
+dallas 
+boston 
+boston 
+san francisco 
+denver 
+boston 
+houston 
+boston 
+philadelphia 
+baltimore 
+columbus 
+san francisco 
+dallas 
+charlotte 
+san francisco 
+boston 
+newark 
+boston 
+san francisco 
+pittsburgh 
+philadelphia 
+pittsburgh 
+pittsburgh 
+kansas city 
+st. petersburg 
+milwaukee 
+boston 
+denver 
+san francisco 
+denver 
+baltimore 
+houston 
+denver 
+boston 
+boston 
+denver 
+dallas 
+new york 
+denver 
+philadelphia 
+oakland 
+orlando 
+charlotte 
+philadelphia 
+boston 
+pittsburgh 
+philadelphia 
+memphis 
+atlanta 
+denver 
+philadelphia 
+san diego 
+san francisco 
+philadelphia 
+phoenix 
+baltimore 
+minneapolis 
+boston 
+denver 
+denver 
+boston 
+washington 
+atlanta 
+atlanta 
+new york 
+houston 
+san francisco 
+atlanta 
+kansas city 
+pittsburgh 
+baltimore 
+baltimore 
+boston 
+dallas 
+philadelphia 
+dallas fort worth 
+philadelphia 
+newark 
+tampa 
+boston 
+boston 
+chicago 
+pittsburgh 
+san francisco 
+las vegas 
+pittsburgh 
+pittsburgh 
+boston 
+long beach 
+boston 
+san francisco 
+boston 
+denver 
+phoenix 
+boston 
+nashville 
+pittsburgh 
+denver 
+toronto 
+san jose 
+pittsburgh 
+oakland 
+san francisco 
+pittsburgh 
+dallas fort worth 
+houston 
+philadelphia 
+san francisco 
+miami 
+newark 
+philadelphia 
+denver 
+san francisco 
+denver 
+denver 
+denver 
+st. louis 
+pittsburgh 
+boston 
+baltimore 
+pittsburgh 
+atlanta 
+dallas 
+boston 
+phoenix 
+miami 
+memphis 
+san francisco 
+pittsburgh 
+boston 
+cleveland 
+pittsburgh 
+atlanta 
+seattle 
+tacoma 
+atlanta 
+denver 
+salt lake city 
+nashville 
+seattle 
+boston 
+atlanta 
+detroit 
+baltimore 
+denver 
+boston 
+boston 
+dallas 
+pittsburgh 
+indianapolis 
+long beach 
+pittsburgh 
+boston 
+philadelphia 
+miami 
+boston 
+pittsburgh 
+dallas 
+milwaukee 
+baltimore or denver or pittsburgh 
+baltimore 
+denver 
+milwaukee 
+milwaukee 
+oakland 
+washington 
+pittsburgh 
+boston 
+san francisco 
+pittsburgh 
+baltimore 
+toronto 
+indianapolis 
+boston 
+atlanta 
+pittsburgh 
+denver 
+oakland 
+st. petersburg 
+philadelphia 
+philadelphia 
+boston 
+boston 
+boston 
+boston 
+milwaukee 
+pittsburgh 
+milwaukee 
+pittsburgh 
+boston 
+dallas fort worth 
+memphis 
+charlotte 
+dallas fort worth 
+philadelphia 
+philadelphia 
+los angeles 
+columbus 
+chicago 
+baltimore 
+philadelphia 
+boston 
+pittsburgh 
+cincinnati 
+denver 
+denver 
+atlanta 
+new york 
+kansas city 
+phoenix 
+cleveland 
+boston 
+detroit 
+denver 
+may four atlanta 
+philadelphia 
+denver 
+boston 
+orlando 
+kansas city 
+washington 
+washington 
+orlando 
+seattle 
+pittsburgh 
+boston 
+denver 
+pittsburgh 
+phoenix 
+atlanta 
+boston 
+san francisco 
+boston 
+pittsburgh 
+boston 
+philadelphia 
+dallas 
+san francisco 
+indianapolis 
+denver 
+pittsburgh 
+san francisco 
+denver 
+dallas 
+oakland 
+boston 
+boston 
+toronto 
+pittsburgh 
+denver 
+denver 
+boston 
+atlanta 
+new york 
+detroit 
+newark 
+denver 
+philadelphia 
+san francisco 
+boston 
+las vegas 
+baltimore 
+memphis 
+pittsburgh 
+atlanta 
+long beach 
+denver 
+atlanta 
+washington 
+oakland 
+philadelphia 
+dallas 
+pittsburgh 
+atlanta 
+long beach 
+phoenix 
+new york 
+tampa 
+burbank 
+denver 
+baltimore 
+las vegas 
+boston 
+pittsburgh 
+boston 
+san diego 
+washington 
+los angeles 
+atlanta 
+boston 
+indianapolis 
+cincinnati 
+denver 
+newark 
+denver 
+denver 
+san francisco 
+boston 
+pittsburgh 
+philadelphia 
+philadelphia 
+tampa 
+san francisco 
+philadelphia 
+oakland 
+dallas fort worth 
+boston 
+atlanta 
+dallas 
+atlanta 
+las vegas 
+boston 
+san francisco 
+denver 
+atlanta 
+boston 
+kansas city 
+memphis 
+philadelphia 
+pittsburgh 
+philadelphia 
+kansas city 
+san francisco 
+denver 
+boston 
+ontario 
+pittsburgh 
+denver 
+pittsburgh 
+indianapolis 
+new york city 
+cincinnati 
+houston 
+charlotte 
+dallas 
+boston 
+boston 
+new york 
+boston 
+pittsburgh 
+san francisco 
+atlanta 
+memphis 
+dallas 
+philadelphia 
+cleveland 
+boston 
+detroit 
+miami 
+st. petersburg 
+atlanta 
+boston 
+orlando 
+dallas fort worth 
+chicago 
+atlanta 
+toronto 
+denver 
+baltimore 
+boston 
+new york city 
+newark 
+boston 
+san francisco 
+st. petersburg 
+dallas 
+pittsburgh 
+los angeles 
+san francisco 
+pittsburgh 
+boston 
+orlando 
+san francisco 
+new york city 
+pittsburgh 
+pittsburgh 
+indianapolis 
+pittsburgh 
+denver 
+miami 
+san francisco 
+boston 
+denver 
+denver 
+boston 
+denver 
+denver 
+philadelphia 
+orlando 
+baltimore 
+philadelphia 
+dallas 
+boston 
+new york 
+seattle 
+indianapolis 
+denver 
+tacoma 
+boston 
+nashville 
+st. paul 
+san francisco 
+pittsburgh 
+memphis 
+san francisco 
+san diego 
+boston 
+atlanta 
+boston 
+boston 
+philadelphia 
+denver 
+philadelphia 
+san francisco 
+denver 
+atlanta 
+oakland 
+boston 
+memphis 
+boston 
+atlanta 
+boston 
+salt lake city 
+pittsburgh 
+denver 
+newark 
+atlanta 
+boston 
+indianapolis 
+san francisco 
+boston 
+denver 
+denver 
+atlanta 
+san jose 
+salt lake city 
+miami 
+kansas city 
+pittsburgh 
+baltimore 
+denver 
+denver 
+boston 
+san francisco 
+boston 
+boston 
+boston 
+pittsburgh 
+atlanta 
+boston 
+denver 
+columbus 
+oakland 
+san francisco 
+atlanta 
+atlanta 
+oakland 
+new york 
+boston 
+boston 
+pittsburgh 
+boston 
+atlanta 
+pittsburgh 
+philadelphia 
+atlanta 
+new york 
+dallas 
+san francisco 
+dallas 
+atlanta 
+baltimore 
+toronto 
+milwaukee 
+philadelphia 
+atlanta 
+denver 
+san francisco 
+new york 
+miami 
+boston 
+denver 
+cincinnati 
+oakland 
+boston 
+pittsburgh 
+denver 
+montreal 
+baltimore 
+philadelphia or denver 
+philadelphia or pittsburgh 
+san francisco 
+new york city 
+philadelphia 
+denver 
+atlanta 
+baltimore 
+denver 
+kansas city 
+phoenix 
+atlanta 
+detroit 
+phoenix 
+philadelphia 
+denver 
+boston 
+denver 
+denver 
+atlanta 
+dallas 
+atlanta 
+boston 
+denver 
+washington 
+atlanta 
+denver 
+dallas 
+pittsburgh 
+pittsburgh 
+boston 
+pittsburgh 
+atlanta 
+memphis 
+baltimore 
+dallas 
+baltimore 
+dallas 
+boston 
+boston 
+dallas 
+boston 
+miami 
+st. paul 
+san jose 
+houston 
+baltimore 
+boston 
+boston 
+milwaukee 
+boston 
+atlanta 
+las vegas 
+boston 
+pittsburgh 
+delta airlines kansas city 
+washington 
+boston 
+toronto 
+boston 
+san francisco denver 
+san francisco boston 
+milwaukee 
+kansas city 
+philadelphia 
+new york 
+seattle 
+washington 
+atlanta 
+pittsburgh 
+boston 
+pittsburgh 
+boston 
+atlanta 
+dallas 
+philadelphia 
+pittsburgh 
+boston 
+milwaukee 
+denver 
+detroit 
+kansas city 
+philadelphia 
+fort worth 
+san jose 
+atlanta 
+boston 
+atlanta 
+pittsburgh 
+san francisco 
+chicago 
+dallas 
+boston 
+atlanta 
+san francisco 
+boston 
+pittsburgh 
+pittsburgh 
+pittsburgh 
+philadelphia 
+chicago 
+boston 
+washington 
+nashville 
+san francisco 
+dallas 
+boston 
+baltimore 
+cleveland 
+boston 
+atlanta 
+pittsburgh 
+pittsburgh 
+boston 
+pittsburgh 
+st. petersburg 
+pittsburgh 
+atlanta 
+chicago 
+denver 
+boston 
+pittsburgh 
+atlanta 
+baltimore 
+milwaukee 
+pittsburgh 
+los angeles 
+boston 
+chicago 
+pittsburgh 
+dallas 
+baltimore 
+charlotte 
+philadelphia 
+boston 
+boston 
+boston 
+pittsburgh 
+washington 
+baltimore 
+baltimore 
+pittsburgh 
+atlanta 
+denver 
+indianapolis 
+denver 
+burbank 
+atlanta 
+atlanta 
+washington 
+baltimore 
+boston 
+boston 
+new york 
+memphis 
+dallas 
+phoenix 
+milwaukee 
+philadelphia 
+orlando 
+dallas 
+philadelphia 
+boston 
+dallas 
+milwaukee 
+boston 
+boston 
+atlanta 
+dallas 
+atlanta 
+charlotte 
+atlanta 
+atlanta 
+denver 
+milwaukee 
+philadelphia 
+new york 
+atlanta 
+la 
+boston 
+long beach 
+atlanta 
+pittsburgh 
+denver 
+charlotte 
+st. petersburg 
+baltimore 
+long beach 
+denver 
+boston 
+nashville 
+denver 
+san francisco 
+philadelphia 
+baltimore 
+denver 
+seattle 
+pittsburgh 
+houston 
+pittsburgh 
+dallas 
+dallas 
+boston 
+pittsburgh 
+atlanta 
+denver 
+boston 
+cleveland 
+atlanta 
+pittsburgh 
+pittsburgh 
+boston 
+boston 
+indianapolis 
+san francisco 
+dallas fort worth 
+boston 
+dallas 
+baltimore 
+indianapolis 
+denver 
+boston 
+long beach 
+denver 
+san francisco 
+boston 
+boston 
+philadelphia 
+denver 
+minneapolis 
+oakland 
+san francisco 
+philadelphia 
+denver 
+columbus 
+atlanta 
+boston 
+atlanta 
+atlanta 
+san francisco 
+philadelphia 
+boston 
+atlanta 
+boston 
+dallas 
+denver 
+atlanta denver 
+pittsburgh 
+boston 
+boston 
+boston 
+pittsburgh 
+atlanta 
+baltimore 
+miami 
+san francisco 
+denver 
+pittsburgh 
+boston 
+philadelphia 
+washington 
+atlanta 
+san diego 
+pittsburgh 
+milwaukee 
+salt lake city 
+denver 
+denver 
+san francisco 
+boston 
+boston 
+indianapolis 
+boston 
+denver 
+dallas 
+minneapolis 
+atlanta 
+philadelphia 
+denver 
+denver 
+san francisco 
+boston 
+nashville 
+cincinnati 
+denver 
+boston 
+new york 
+memphis 
+san diego 
+round trip dallas 
+boston 
+pittsburgh 
+denver 
+baltimore 
+boston 
+san francisco 
+denver 
+denver 
+boston 
+baltimore 
+baltimore 
+pittsburgh 
+atlanta 
+cleveland 
+philadelphia 
+denver 
+atlanta 
+dallas 
+baltimore 
+baltimore 
+philadelphia 
+baltimore 
+newark 
+boston 
+san francisco 
+boston 
+atlanta 
+baltimore 
+denver 
+baltimore 
+denver 
+boston 
+philadelphia 
+toronto 
+toronto 
+oakland 
+baltimore 
+atlanta 
+tampa 
+dallas 
+boston 
+denver 
+denver 
+indianapolis 
+atlanta 
+orlando 
+las vegas 
+dallas 
+san francisco 
+boston 
+philadelphia 
+boston 
+cincinnati 
+washington 
+burbank 
+pittsburgh 
+charlotte 
+philadelphia 
+milwaukee 
+boston 
+boston 
+milwaukee 
+washington 
+atlanta 
+phoenix 
+boston 
+baltimore 
+atlanta 
+newark 
+baltimore 
+pittsburgh 
+phoenix 
+dallas 
+san francisco 
+baltimore 
+boston 
+houston 
+milwaukee 
+ontario 
+denver 
+boston 
+boston 
+atlanta 
+san diego 
+dallas 
+philadelphia 
+oakland 
+philadelphia 
+san francisco 
+philadelphia 
+boston 
+pittsburgh 
+denver 
+pittsburgh 
+atlanta 
+newark 
+pittsburgh 
+dallas 
+pittsburgh 
+dallas 
+dallas fort worth 
+indianapolis 
+dallas 
+boston 
+tampa 
+philadelphia 
+phoenix 
+philadelphia 
+pittsburgh 
+boston 
+denver 
+baltimore 
+boston 
+atlanta 
+atlanta 
+indianapolis 
+boston 
+nashville 
+atlanta 
+san francisco 
+atlanta 
+boston 
+denver 
+milwaukee 
+pittsburgh 
+san diego 
+atlanta 
+dallas 
+boston 
+denver 
+toronto 
+st. petersburg 
+boston 
+denver 
+columbus 
+washington 
+boston 
+charlotte 
+dallas 
+boston 
+boston 
+san francisco 
+pittsburgh 
+new york 
+atlanta 
+san francisco 
+denver 
+atlanta 
+denver or philadelphia or pittsburgh 
+las vegas 
+boston 
+atlanta 
+tampa 
+boston 
+philadelphia 
+memphis 
+new york city 
+philadelphia 
+denver 
+baltimore 
+newark 
+boston 
+detroit 
+san francisco 
+dallas 
+newark 
+kansas city 
+boston 
+kansas city 
+baltimore 
+boston 
+toronto 
+denver 
+new york city 
+kansas city 
+kansas city 
+dallas 
+atlanta 
+philadelphia 
+philadelphia 
+boston 
+chicago 
+pittsburgh 
+pittsburgh 
+montreal 
+san francisco 
+philadelphia 
+pittsburgh 
+charlotte 
+san francisco 
+atlanta 
+san francisco 
+st. paul 
+chicago 
+chicago 
+denver 
+milwaukee 
+denver 
+pittsburgh 
+toronto 
+earliest boston 
+atlanta 
+philadelphia 
+houston 
+denver 
+kansas city 
+st. paul 
+san francisco 
+boston 
+boston 
+denver 
+pittsburgh 
+st. petersburg 
+san jose 
+denver 
+baltimore 
+dallas 
+kansas city 
+philadelphia 
+boston 
+oakland 
+new york city 
+boston 
+chicago 
+pittsburgh 
+las vegas 
+milwaukee 
+boston 
+atlanta 
+boston 
+philadelphia 
+boston 
+atlanta 
+baltimore 
+san francisco 
+boston 
+las vegas 
+san francisco 
+denver 
+newark 
+san francisco 
+san francisco 
+boston 
+denver 
+boston 
+baltimore 
+boston 
+dallas 
+boston 
+denver 
+philadelphia 
+pittsburgh 
+philadelphia 
+denver 
+atlanta 
+kansas city 
+pittsburgh 
+denver 
+cincinnati 
+minneapolis 
+san francisco 
+pittsburgh 
+washington 
+dallas 
+las vegas 
+baltimore 
+denver 
+atlanta 
+boston 
+denver 
+boston 
+oakland 
+denver 
+denver 
+philadelphia 
+miami 
+new york 
+boston 
+denver 
+indianapolis 
+denver 
+cincinnati 
+cincinnati 
+boston 
+denver 
+pittsburgh 
+dallas 
+boston 
+boston 
+boston 
+boston 
+atlanta 
+baltimore 
+charlotte 
+baltimore 
+boston 
+memphis 
+dallas 
+dallas 
+denver 
+san francisco 
+boston 
+dallas 
+baltimore 
+dallas 
+pittsburgh 
+baltimore 
+dallas fort worth 
+toronto 
+atlanta 
+dallas 
+boston 
+san francisco 
+philadelphia 
+los angeles 
+denver 
+denver 
+tuesday san diego 
+atlanta 
+washington 
+dallas 
+charlotte 
+pittsburgh 
+baltimore 
+salt lake city 
+chicago 
+boston 
+dallas fort worth 
+boston 
+cleveland 
+toronto 
+denver 
+dallas 
+charlotte 
+philadelphia 
+pittsburgh 
+chicago 
+denver 
+san francisco 
+toronto 
+denver 
+dallas 
+boston 
+tacoma 
+denver 
+columbus 
+baltimore 
+pittsburgh 
+philadelphia 
+washington 
+baltimore 
+milwaukee 
+dallas fort worth 
+indianapolis 
+denver 
+dallas 
+philadelphia 
+us 3724 baltimore 
+denver 
+charlotte 
+philadelphia 
+baltimore 
+atlanta 
+denver 
+new york 
+newark 
+philadelphia 
+boston 
+atlanta 
+boston 
+milwaukee 
+pittsburgh 
+boston 
+boston 
+denver 
+boston 
+atlanta 
+boston 
+denver 
+philadelphia 
+pittsburgh 
+st. petersburg 
+boston 
+dallas 
+oakland 
+boston 
+washington 
+oakland 
+philadelphia 
+memphis 
+nashville 
+philadelphia 
+dallas 
+cleveland 
+dallas 
+milwaukee 
+boston 
+boston 
+pittsburgh 
+san francisco 
+boston 
+denver 
+milwaukee 
+denver 
+denver 
+boston 
+chicago 
+denver 
+boston 
+pittsburgh 
+pittsburgh 
+pittsburgh 
+washington 
+pittsburgh 
+boston 
+dallas 
+philadelphia 
+dallas 
+boston 
+columbus 
+cleveland 
+philadelphia 
+detroit 
+denver 
+milwaukee 
+boston 
+boston 
+boston 
+miami 
+atlanta 
+boston 
+denver 
+boston 
+atlanta 
+boston 
+montreal 
+boston 
+denver 
+denver 
+oakland 
+minneapolis 
+san diego 
+denver 
+philadelphia 
+san francisco 
+pittsburgh 
+denver 
+boston 
+salt lake city 
+pittsburgh 
+seattle 
+cincinnati 
+nashville 
+dallas 
+milwaukee 
+atlanta 
+baltimore 
+oakland 
+philadelphia 
+newark 
+washington 
+denver 
+long beach 
+denver 
+philadelphia 
+atlanta 
+boston 
+baltimore 
+dallas dallas 
+boston 
+pittsburgh 
+atlanta 
+oakland 
+boston 
+toronto 
+boston 
+las vegas 
+san francisco 
+philadelphia 
+boston 
+pittsburgh 
+denver 
+denver 
+milwaukee 
+baltimore 
+dallas 
+atlanta 
+san diego 
+denver 
+san francisco 
+la 
+san francisco 
+denver 
+dallas 
+boston 
+pittsburgh 
+philadelphia 
+dallas 
+cincinnati 
+atlanta 
+atlanta 
+new york 
+boston 
+philadelphia 
+long beach 
+new york city 
+boston 
+phoenix 
+washington 
+boston 
+atlanta 
+salt lake city 
+dallas 
+las vegas 
+boston 
+atlanta 
+new york 
+ontario 
+denver 
+baltimore 
+milwaukee 
+houston 
+denver 
+baltimore 
+atlanta 
+long beach 
+charlotte 
+dallas 
+las vegas 
+boston 
+new york city 
+pittsburgh 
+atlanta 
+milwaukee 
+tampa 
+atlanta 
+atlanta 
+dallas 
+san francisco 
+boston 
+atlanta 
+philadelphia 
+boston 
+boston 
+denver 
+boston 
+baltimore 
+denver 
+san francisco 
+phoenix 
+chicago 
+phoenix 
+kansas city 
+dallas 
+denver 
+pittsburgh 
+philadelphia 
+boston 
+pittsburgh 
+las vegas 
+denver 
+boston 
+philadelphia 
+philadelphia 
+newark 
+boston 
+san francisco 
+atlanta 
+seattle 
+montreal 
+phoenix 
+milwaukee 
+miami 
+toronto 
+los angeles 
+pittsburgh 
+baltimore 
+pittsburgh 
+baltimore 
+san francisco 
+phoenix 
+miami 
+philadelphia 
+boston 
+atlanta 
+cincinnati 
+charlotte 
+denver 
+new york 
+philadelphia 
+boston 
+baltimore washington 
+boston 
+boston 
+boston 
+boston 
+baltimore 
+boston 
+boston 
+dallas 
+baltimore 
+newark 
+boston 
+atlanta 
+san francisco 
+atlanta 
+denver 
+dallas 
+boston 
+pittsburgh 
+baltimore 
+cleveland 
+pittsburgh 
+pittsburgh 
+kansas city 
+boston 
+indianapolis 
+boston 
+pittsburgh 
+oakland 
+boston 
+dallas dallas 
+new york 
+boston 
+milwaukee 
+boston 
+denver 
+san diego 
+phoenix 
+washington 
+boston 
+charlotte 
+san diego 
+san francisco 
+dallas 
+milwaukee 
+san jose 
+baltimore 
+atlanta 
+philadelphia 
+san francisco 
+boston 
+philadelphia 
+boston 
+boston 
+dallas 
+boston 
+tampa 
+san francisco 
+dallas 
+phoenix 
+atlanta 
+denver 
+dallas 
+houston 
+miami 
+baltimore 
+pittsburgh 
+washington 
+washington 
+charlotte 
+baltimore 
+boston 
+boston 
+cleveland 
+new york city 
+boston 
+san francisco 
+denver 
+philadelphia 
+indianapolis 
+oakland 
+toronto 
+toronto 
+minneapolis 
+philadelphia 
+philadelphia 
+toronto 
+charlotte 
+indianapolis 
+atlanta 
+denver 
+philadelphia 
+newark 
+pittsburgh 
+atlanta 
+salt lake city 
+san francisco 
+denver 
+charlotte 
+atlanta 
+boston 
+philadelphia 
+atlanta 
+boston 
+denver 
+charlotte 
+dallas 
+wednesday morning boston 
+dallas 
+boston 
+phoenix 
+pittsburgh 
+boston 
+denver 
+baltimore 
+boston 
+new york 
+los angeles 
+indianapolis 
+boston 
+boston 
+milwaukee 
+denver 
+san francisco 
+dallas 
+pittsburgh 
+baltimore 
+boston 
+phoenix 
+dl 296 denver 
+boston 
+boston 
+atlanta 
+dallas 
+oakland 
+seattle 
+san francisco 
+baltimore 
+atlanta 
+atlanta 
+minneapolis 
+washington 
+baltimore 
+boston 
+atlanta 
+newark 
+denver 
+pittsburgh 
+atlanta 
+pittsburgh 
+oakland 
+dallas fort worth 
+san francisco 
+pittsburgh 
+philadelphia 
+dallas 
+pittsburgh 
+san francisco 
+boston 
+indianapolis 
+new york 
+san francisco 
+philadelphia 
+baltimore 
+dallas 
+san francisco 
+atlanta 
+boston 
+san diego 
+denver 
+tampa 
+atlanta 
+boston 
+atlanta 
+san francisco 
+dallas 
+pittsburgh 
+denver 
+pittsburgh 
+las vegas 
+st. paul 
+baltimore 
+san francisco 
+san francisco 
+boston 
+baltimore 
+dallas 
+philadelphia 
+pittsburgh 
+philadelphia 
+kansas city 
+long beach 
+dallas fort worth 
+dallas 
+san diego 
+las vegas 
+oakland 
+atlanta 
+boston 
+san francisco 
+washington 
+baltimore 
+dallas 
+denver 
+indianapolis 
+boston 
+pittsburgh 
+phoenix 
+boston 
+boston 
+oakland 
+boston 
+boston 
+philadelphia 
+new york 
+san francisco 
+boston 
+boston 
+boston 
+san jose 
+atlanta 
+pittsburgh 
+kansas city 
+denver 
+san francisco 
+pittsburgh 
+denver 
+boston 
+boston 
+indianapolis 
+dallas 
+pittsburgh 
+pittsburgh 
+denver 
+boston 
+columbus 
+baltimore 
+denver 
+pittsburgh 
+indianapolis 
+miami 
+philadelphia 
+pittsburgh 
+san francisco 
+pittsburgh 
+denver 
+pittsburgh 
+nashville 
+san francisco 
+houston 
+houston 
+tampa 
+denver 
+philadelphia 
+boston 
+oakland 
+pittsburgh 
+dallas 
+montreal 
+indianapolis 
+new york city 
+memphis 
+atlanta 
+atlanta 
+milwaukee 
+denver 
+chicago 
+atlanta 
+pittsburgh 
+seattle 
+denver 
+denver 
+washington 
+denver 
+baltimore 
+chicago 
+boston 
+baltimore 
+boston 
+denver 
+columbus 
+baltimore 
+kansas city 
+salt lake city 
+cincinnati 
+philadelphia 
+dallas 
+boston 
+san francisco 
+baltimore 
+las vegas 
+baltimore 
+toronto 
+dallas 
+baltimore 
+boston 
+boston 
+memphis 
+san francisco 
+pittsburgh 
+boston 
+memphis 
+philadelphia 
+denver 
+pittsburgh 
+oakland 
+boston 
+indianapolis 
+denver 
+charlotte 
+cleveland 
+philadelphia 
+boston 
+las vegas 
+phoenix 
+denver 
+dallas 
+pittsburgh 
+newark 
+miami 
+los angeles 
+new york 
+pittsburgh 
+san francisco 
+pittsburgh 
+baltimore 
+montreal 
+philadelphia 
+pittsburgh 
+chicago 
+san francisco 
+atlanta 
+kansas city 
+san francisco 
+pittsburgh 
+boston 
+boston 
+pittsburgh 
+atlanta 
+los angeles 
+atlanta 
+indianapolis 
+san jose 
+toronto 
+st. petersburg 
+dallas 
+atlanta 
+pittsburgh 
+pittsburgh 
+boston 
+cincinnati 
+new york 
+miami 
+denver 
+philadelphia 
+pittsburgh 
+dallas 
+baltimore 
+san francisco 
+pittsburgh 
+boston 
+oakland 
+columbus 
+atlanta 
+chicago 
+boston 
+boston 
+san francisco 
+boston 
+atlanta 
+ontario 
+pittsburgh 
+denver 
+san francisco 
+st. paul 
+washington 
+pittsburgh 
+miami 
+washington 
+atlanta 
+kansas city 
+dallas 
+pittsburgh 
+las vegas 
+atlanta 
+newark 
+new york 
+boston 
+atlanta 
+los angeles 
+montreal 
+phoenix 
+philadelphia 
+boston 
+atlanta 
+atlanta 
+boston 
+boston 
+denver 
+philadelphia 
+houston 
+atlanta 
+kansas city 
+philadelphia 
+dallas 
+boston 
+boston 
+dallas 
+boston 
+washington 
+newark 
+atlanta 
+milwaukee 
+boston 
+oakland 
+milwaukee 
+san francisco 
+denver 
+boston 
+san francisco 
+atlanta 
+san francisco 
+chicago 
+philadelphia 
+ontario 
+denver 
+boston 
+toronto 
+denver 
+baltimore 
+boston 
+washington 
+philadelphia 
+denver 
+seattle 
+pittsburgh 
+atlanta 
+boston 
+san jose 
+oakland 
+atlanta 
+denver 
+cleveland 
+baltimore 
+boston 
+denver 
+baltimore 
+san francisco 
+boston 
+los angeles 
+atlanta 
+boston 
+boston 
+pittsburgh 
+pittsburgh 
+philadelphia 
+boston 
+miami 
+atlanta's 
+dallas 
+boston 
+pittsburgh 
+atlanta 
+baltimore 
+boston 
+memphis 
+tampa 
+boston 
+phoenix 
+oakland 
+boston 
+tampa 
+pittsburgh 
+new york 
+philadelphia 
+miami 
+denver 
+dallas fort worth 
+atlanta 
+burbank 
+boston 
+new york 
+indianapolis 
+chicago 
+orlando 
+san diego 
+atlanta 
+boston 
+san francisco 
+dallas 
+dallas 
+st. petersburg 
+washington 
+boston 
+atlanta 
+denver 
+atlanta 
+newark 
+boston 
+boston 
+tampa 
+atlanta 
+denver 
+dallas 
+nashville 
+nashville 
+denver 
+atlanta 
+boston 
+denver 
+st. petersburg 
+atlanta 
+denver 
+san francisco 
+st. petersburg 
+detroit 
+cincinnati 
+san francisco 
+washington 
+philadelphia 
+newark 
+denver 
+oakland 
+minneapolis 
+pittsburgh 
+baltimore 
+dallas 
+boston 
+atlanta 
+dallas 
+atlanta 
+boston 
+denver 
+nashville 
+philadelphia 
+indianapolis 
+baltimore 
+denver 
+atlanta 
+dallas 
+baltimore denver 
+pittsburgh 
+denver 
+long beach 
+philadelphia 
+boston 
+baltimore 
+boston 
+boston 
+st. petersburg 
+baltimore 
+nashville 
+denver 
+oakland 
+chicago 
+dallas 
+baltimore 
+los angeles 
+boston 
+philadelphia 
+boston 
+boston 
+pittsburgh 
+atlanta 
+boston 
+boston 
+boston 
+chicago 
+denver 
+kansas city 
+san francisco 
+houston 
+tampa 
+las vegas 
+pittsburgh 
+tacoma 
+philadelphia 
+boston 
+denver 
+boston 
+san francisco 
+dallas 
+atlanta 
+indianapolis 
+seattle 
+st. petersburg 
+pittsburgh 
+pittsburgh 
+pittsburgh 
+san francisco 
+boston 
+pittsburgh 
+washington 
+baltimore 
+denver 
+atlanta 
+philadelphia 
+san francisco 
+baltimore 
+philadelphia 
+pittsburgh 
+pittsburgh 
+san francisco 
+pittsburgh 
+boston 
+new york 
+philadelphia 
+las vegas 
+indianapolis 
+boston 
+kansas city 
+boston 
+pittsburgh 
+baltimore 
+cleveland 
+pittsburgh 
+denver 
+atlanta 
+miami 
+st. louis 
+new york 
+denver 
+philadelphia 
+denver 
+indianapolis 
+dallas 
+dallas 
+pittsburgh 
+baltimore 
+boston 
+seattle 
+pittsburgh 
+baltimore 
+denver 
+atlanta 
+charlotte 
+denver 
+boston 
+san francisco 
+philadelphia 
+boston 
+boston 
+pittsburgh 
+denver 
+toronto 
+los angeles 
+columbus 
+new york 
+dallas 
+milwaukee 
+boston 
+denver 
+san francisco 
+philadelphia 
+toronto 
+st. paul 
+phoenix 
+philadelphia 
+boston 
+pittsburgh 
+baltimore 
+boston 
+milwaukee 
+nashville 
+pittsburgh 
+baltimore 
+pittsburgh 
+boston 
+boston 
+toronto 
+pittsburgh 
+phoenix 
+san diego 
+columbus 
+oakland 
+atlanta 
+atlanta 
+philadelphia 
+denver 
+denver 
+milwaukee 
+baltimore 
+san francisco 
+pittsburgh 
+baltimore 
+orlando 
+baltimore 
+newark 
+baltimore 
+pittsburgh 
+pittsburgh 
+boston 
+atlanta 
+baltimore 
+boston 
+new york city 
+baltimore 
+boston 
+tampa 
+san francisco 
+boston 
+atlanta 
+philadelphia 
+denver 
+atlanta 
+pittsburgh 
+pittsburgh 
+dallas 
+houston 
+pittsburgh 
+san jose 
+cleveland 
+boston 
+new york 
+washington 
+boston 
+newark 
+atlanta 
+pittsburgh 
+denver 
+pittsburgh 
+toronto 
+atlanta 
+boston 
+atlanta 
+new york 
+boston 
+earliest boston 
+latest atlanta 
+boston 
+denver 
+boston 
+memphis 
+seattle 
+atlanta 
+boston 
+denver 
+miami 
+boston 
+washington 
+atlanta 
+dallas 
+cincinnati 
+boston 
+boston 
+boston 
+atlanta 
+denver 
+san francisco 
+indianapolis 
+new york 
+denver 
+boston 
+las vegas 
+baltimore 
+boston 
+san francisco 
+pittsburgh 
+denver 
+dallas 
+pittsburgh 
+denver 
+denver 
+st. paul 
+philadelphia 
+boston 
+pittsburgh 
+boston 
+denver 
+boston 
+boston 
+orlando 
+denver 
+denver 
+boston 
+washington 
+atlanta 
+philadelphia 
+newark 
+boston 
+washington 
+pittsburgh 
+atlanta 
+denver 
+denver 
+cleveland 
+baltimore 
+phoenix 
+nashville 
+boston 
+atlanta 
+baltimore 
+boston 
+baltimore 
+denver 
+newark 
+new york 
+montreal 
+phoenix 
+milwaukee 
+boston 
+columbus 
+atlanta 
+san diego 
+baltimore 
+washington 
+boston 
+dallas 
+denver 
+miami 
+philadelphia 
+denver 
+boston 
+dallas 
+indianapolis 
+san francisco 
+boston 
+boston 
+atlanta 
+columbus 
+pittsburgh 
+san francisco 
+toronto 
+atlanta 
+atlanta 
+boston 
+atlanta 
+san francisco 
+baltimore 
+boston 
+westchester county 
+san francisco 
+toronto 
+dallas 
+pittsburgh 
+boston 
+philadelphia 
+atlanta 
+denver 
+milwaukee 
+burbank 
+cincinnati 
+atlanta 
+baltimore 
+atlanta 
+pittsburgh 
+pittsburgh 
+denver 
+denver 
+denver 
+dallas 
+atlanta 
+pittsburgh 
+san francisco 
+boston 
+san jose 
+miami 
+boston 
+nashville 
+newark 
+denver 
+washington 
+dallas 
+boston 
+philadelphia 
+dallas 
+san francisco 
+denver 
+denver 
+atlanta 
+pittsburgh 
+denver 
+pittsburgh 
+san francisco 
+denver 
+dallas 
+denver 
+baltimore 
+boston 
+boston 
+denver 
+st. paul 
+st. paul 
+dallas 
+philadelphia 
+atlanta 
+san francisco 
+san francisco 
+atlanta 
+ontario 
+minneapolis 
+boston 
+st. louis 
+boston 
+boston 
+denver 
+boston 
+san francisco 
+chicago 
+cleveland 
+newark 
+pittsburgh 
+pittsburgh 
+dallas 
+boston 
+san francisco 
+boston 
+boston 
+philadelphia 
+boston 
+philadelphia 
+phoenix 
+atlanta 
+boston 
+atlanta 
+tacoma 
+pittsburgh 
+atlanta 
+philadelphia 
+baltimore 
+pittsburgh 
+pittsburgh 
+atlanta 
+boston 
+denver 
+san francisco 
+philadelphia 
+baltimore 
+philadelphia 
+denver 
+boston 
+boston 
+montreal 
+denver 
+san francisco 
+ontario 
+milwaukee 
+denver 
+atlanta 
+san francisco 
+atlanta 
+indianapolis 
+ontario 
+charlotte 
+cleveland 
+boston 
+baltimore 
+charlotte 
+denver 
+dallas 
+boston 
+pittsburgh 
+pittsburgh 
+dallas 
+phoenix 
+dallas 
+dallas 
+dallas 
+dallas 
+pittsburgh 
+dallas 
+atlanta 
+pittsburgh 
+atlanta 
+baltimore 
+orlando 
+long beach 
+boston 
+dallas 
+denver 
+toronto 
+orlando 
+boston 
+baltimore 
+baltimore 
+baltimore 
+san diego 
+boston 
+boston 
+atlanta 
+boston 
+san diego 
+baltimore 
+dallas 
+newark 
+san francisco 
+pittsburgh 
+philadelphia 
+atlanta 
+st. paul 
+boston 
+philadelphia 
+boston 
+boston 
+boston 
+philadelphia 
+philadelphia 
+baltimore 
+denver 
+dallas 
+denver 
+boston 
+denver 
+baltimore 
+denver 
+denver 
+new york city 
+dallas 
+denver 
+boston 
+philadelphia 
+san francisco 
+phoenix 
+denver 
+boston 
+pittsburgh 
+baltimore 
+pittsburgh 
+pittsburgh 
+las vegas 
+denver 
+denver 
+boston 
+chicago 
+philadelphia 
+chicago 
+boston 
+kansas city 
+philadelphia 
+pittsburgh 
+philadelphia 
+philadelphia 
+atlanta 
+denver 
+charlotte 
+pittsburgh 
+chicago 
+baltimore 
+oakland 
+atlanta 
+atlanta 
+denver 
+baltimore 
+milwaukee 
+memphis 
+atlanta 
+san francisco 
+denver 
+atlanta 
+tampa 
+denver 
+denver 
+boston 
+philadelphia 
+boston 
+philadelphia 
+atlanta 
+detroit 
+boston 
+charlotte 
+oakland 
+boston 
+boston 
+boston 
+boston 
+atlanta 
+dallas 
+pittsburgh 
+boston 
+charlotte 
+atlanta 
+dallas 
+baltimore 
+dallas 
+san jose 
+kansas city 
+dallas 
+boston 
+atlanta 
+san jose 
+miami 
+boston 
+san francisco 
+boston 
+chicago 
+tampa 
+boston 
+pittsburgh 
+atlanta 
+dallas 
+oakland 
+detroit 
+st. petersburg 
+boston 
+washington 
+oakland 
+atlanta 
+boston 
+boston 
+new york 
+newark 
+boston 
+baltimore 
+boston 
+atlanta 
+atlanta 
+miami 
+philadelphia 
+baltimore 
+minneapolis 
+st. paul 
+long beach 
+denver 
+atlanta 
+san francisco 
+baltimore 
+atlanta 
+pittsburgh 
+dallas 
+washington 
+oakland 
+atlanta 
+boston 
+atlanta 
+boston 
+san diego 
+boston 
+denver 
+charlotte 
+pittsburgh 
+denver 
+philadelphia 
+boston 
+dallas 
+houston 
+toronto 
+boston 
+baltimore 
+memphis 
+washington 
+charlotte 
+san jose 
+denver 
+baltimore 
+pittsburgh 
+detroit 
+san francisco 
+boston 
+dallas 
+milwaukee 
+denver 
+washington 
+new york city 
+denver 
+newark 
+pittsburgh 
+boston 
+san francisco 
+san francisco 
+philadelphia 
+washington 
+new york city 
+boston 
+baltimore 
+kansas city 
+los angeles 
+dallas 
+boston 
+atlanta 
+boston 
+atlanta 
+atlanta 
+denver 
+denver 
+new york 
+denver 
+denver 
+philadelphia 
+washington 
+baltimore 
+atlanta 
+washington 
+denver 
+chicago 
+april twenty seventh denver 
+boston 
+oakland 
+baltimore 
+denver 
+san francisco 
+boston 
+baltimore 
+new york 
+orlando 
+boston 
+atlanta 
+san francisco 
+pittsburgh 
+pittsburgh 
+denver 
+denver 
+baltimore 
+pittsburgh 
+boston 
+pittsburgh 
+boston 
+st. louis 
+atlanta 
+san francisco 
+washington 
+san diego 
+boston 
+new york 
+kansas city 
+dallas 
+denver 
+pittsburgh 
+phoenix 
+denver 
+atlanta 
+denver 
+indianapolis 
+miami 
+atlanta 
+pittsburgh 
+new york 
+boston 
+baltimore 
+atlanta 
+philadelphia 
+oakland 
+atlanta 
+boston 
+baltimore 
+houston 
+pittsburgh 
+atlanta 
+san francisco 
+new york 
+boston 
+atlanta 
+boston 
+dallas 
+memphis 
+boston 
+new york 
+pittsburgh 
+boston 
+boston 
+phoenix 
+minneapolis 
+new york 
+baltimore 
+oakland 
+miami 
+tampa 
+los angeles 
+boston 
+san diego 
+san francisco 
+nashville 
+boston 
+denver 
+new york 
+detroit 
+atlanta 
+denver 
+pittsburgh 
+san francisco 
+baltimore 
+washington 
+phoenix 
+atlanta 
+cleveland 
+san francisco 
+philadelphia 
+pittsburgh 
+new york 
+boston 
+boston 
+boston 
+boston 
+minneapolis 
+pittsburgh 
+atlanta 
+pittsburgh 
+memphis 
+denver 
+baltimore 
+dallas 
+oakland 
+boston 
+boston 
+philadelphia 
+indianapolis 
+indianapolis 
+montreal 
+cleveland 
+philadelphia 
+st. paul 
+oakland 
+boston 
+st. petersburg 
+pittsburgh 
+charlotte 
+seattle 
+philadelphia 
+boston 
+chicago 
+boston 
+new york 
+denver 
+baltimore 
+indianapolis 
+san diego 
+philadelphia 
+salt lake city 
+atlanta 
+baltimore 
+cleveland 
+pittsburgh 
+denver 
+philadelphia 
+atlanta 
+san francisco 
+san francisco 
+boston 
+pittsburgh 
+atlanta 
+st. paul 
+orlando 
+pittsburgh 
+new york city 
+memphis 
+toronto 
+denver 
+san francisco 
+minneapolis 
+san francisco 
+pittsburgh 
+charlotte 
+atlanta 
+boston 
+san francisco 
+st. louis 
+baltimore 
+kansas city 
+miami 
+las vegas 
+baltimore 
+san francisco 
+denver 
+pittsburgh 
+chicago 
+boston 
+denver 
+milwaukee 
+cincinnati 
+boston 
+denver 
+dallas 
+phoenix 
+boston 
+boston 
+philadelphia 
+atlanta 
+columbus 
+denver 
+tacoma 
+denver 
+baltimore 
+denver 
+denver 
+philadelphia 
+pittsburgh 
+atlanta 
+atlanta 
+boston 
+denver 
+denver 
+boston 
+ontario 
+boston 
+pittsburgh 
+boston 
+long beach 
+dallas 
+washington 
+boston 
+boston 
+milwaukee 
+long beach 
+seattle 
+san francisco 
+denver 
+philadelphia 
+baltimore 
+baltimore 
+san francisco 
+milwaukee 
+boston 
+denver 
+washington 
+tampa 
+dallas 
+san francisco 
+boston 
+boston 
+denver 
+pittsburgh 
+pittsburgh 
+baltimore 
+salt lake city 
+atlanta 
+boston 
+atlanta 
+oakland 
+detroit 
+kansas city 
+washington 
+boston 
+denver 
+denver 
+salt lake city 
+denver 
+cincinnati 
+indianapolis 
+baltimore 
+san francisco 
+indianapolis 
+philadelphia 
+boston 
+denver 
+nashville 
+atlanta 
+st. petersburg 
+washington 
+pittsburgh 
+tampa 
+boston 
+boston 
+baltimore 
+dallas 
+denver 
+philadelphia 
+san francisco 
+ontario 
+baltimore 
+baltimore 
+san diego 
+denver 
+pittsburgh 
+new york city 
+denver 
+boston 
+oakland 
+boston 
+boston 
+denver 
+pittsburgh 
+newark 
+atlanta 
+miami 
+atlanta 
+montreal 
+baltimore 
+dallas 
+pittsburgh 
+san francisco 
+san francisco 
+kansas city 
+dallas 
+san francisco 
+denver 
+denver 
+philadelphia 
+san francisco 
+st. paul 
+boston 
+atlanta 
+dallas 
+chicago 
+oakland 
+pittsburgh 
+denver 
+pittsburgh 
+philadelphia 
+dallas 
+denver 
+atlanta 
+baltimore 
+denver 
+philadelphia 
+boston 
+new york 
+philadelphia 
+dallas 
+oakland 
+denver 
+baltimore 
+baltimore 
+san francisco 
+tacoma 
+san francisco 
+pittsburgh 
+baltimore 
+denver 
+pittsburgh 
+dallas 
+montreal 
+atlanta 
+san francisco 
+st. paul 
+boston 
+boston 
+san diego 
+pittsburgh 
+chicago 
+boston 
+atlanta 
+boston 
+boston 
+atlanta 
+oakland 
+san diego 
+atlanta 
+kansas city 
+chicago 
+las vegas 
+denver 
+atlanta 
+denver 
+dallas 
+denver 
+denver 
+los angeles 
+pittsburgh 
+boston 
+boston 
+denver 
+boston 
+charlotte 
+phoenix 
+new york city 
+atlanta 
+atlanta 
+pittsburgh 
+dallas 
+philadelphia 
+pittsburgh 
+dallas 
+san francisco 
+oakland 
+charlotte 
+atlanta 
+boston 
+denver 
+atlanta 
+denver 
+denver 
+baltimore 
+philadelphia 
+denver 
+salt lake city 
+atlanta 
+boston 
+st. petersburg 
+newark 
+pittsburgh 
+dallas 
+atlanta 
+boston 
+boston 
+boston 
+boston 
+dallas 
+denver 
+st. petersburg 
+milwaukee 
+boston 
+las vegas 
+kansas city 
+boston 
+pittsburgh 
+denver 
+boston 
+la 
+boston 
+denver 
+atlanta 
+denver 
+denver 
+pittsburgh 
+chicago 
+denver 
+atlanta 
+san francisco 
+dallas 
+atlanta 
+boston 
+memphis 
+denver 
+dallas 
+denver 
+boston 
+philadelphia 
+boston 
+boston 
+boston 
+denver 
+boston 
+boston 
+denver 
+oakland 
+boston 
+san francisco 
+philadelphia 
+toronto 
+boston 
+oakland 
+boston 
+san francisco 
+san francisco 
+dallas 
+philadelphia 
+washington 
+boston 
+atlanta 
+milwaukee 
+miami 
+san francisco 
+san francisco 
+boston 
+denver 
+denver 
+san francisco 
+baltimore 
+boston 
+pittsburgh 
+baltimore 
+boston 
+phoenix 
+salt lake city 
+denver 
+st. petersburg 
+baltimore 
+denver 
+denver 
+philadelphia 
+boston 
+philadelphia 
+philadelphia 
+toronto 
+boston 
+pittsburgh 
+houston 
+philadelphia 
+atlanta 
+boston 
+boston 
+new york 
+boston 
+san francisco 
+atlanta 
+columbus 
+atlanta 
+boston 
+baltimore 
+denver 
+boston 
+atlanta 
+dallas 
+miami 
+baltimore 
+miami 
+baltimore 
+atlanta 
+charlotte 
+columbus 
+dallas 
+boston 
+boston 
+baltimore 
+baltimore 
+pittsburgh 
+philadelphia 
+baltimore 
+philadelphia 
+boston 
+milwaukee 
+houston 
+st. louis 
+cleveland 
+atlanta 
+baltimore 
+denver 
+baltimore 
+baltimore or denver or pittsburgh 
+denver 
+pittsburgh 
+atlanta 
+dallas 
+new york city 
+dallas 
+nashville 
+dallas 
+boston 
+la 
+baltimore 
+philadelphia 
+atlanta 
+boston 
+denver 
+denver 
+boston 
+pittsburgh 
+milwaukee 
+tacoma 
+toronto 
+denver 
+detroit 
+dallas 
+denver 
+pittsburgh 
+washington 
+oakland 
+philadelphia 
+pittsburgh 
+atlanta 
+phoenix 
+denver 
+baltimore 
+boston 
+san francisco 
+round trip houston 
+denver 
+boston 
+tampa 
+baltimore 
+burbank 
+chicago 
+denver 
+atlanta 
+la 
+las vegas 
+charlotte 
+new york 
+pittsburgh 
+us air boston 
+columbus 
+detroit 
+dallas 
+baltimore 
+oakland 
+dallas 
+pittsburgh 
+boston 
+washington 
+dallas fort worth 
+atlanta 
+san francisco 
+miami 
+san francisco 
+atlanta 
+pittsburgh 
+baltimore 
+denver 
+philadelphia 
+baltimore 
+cincinnati 
+boston 
+pittsburgh 
+baltimore 
+washington 
+pittsburgh 
+boston 
+dallas 
+boston 
+philadelphia 
+baltimore 
+los angeles 
+charlotte 
+denver 
+baltimore 
+san francisco 
+boston 
+denver 
+denver 
+baltimore 
+long beach 
+charlotte 
+boston 
+boston 
+atlanta 
+atlanta 
+new york 
+washington 
+chicago 
+pittsburgh 
+chicago 
+dallas 
+houston 
+chicago 
+philadelphia 
+minneapolis 
+seattle 
+washington 
+baltimore 
+cleveland 
+boston 
+boston 
+washington 
+denver 
+san francisco 
+philadelphia 
+baltimore 
+new york 
+oakland 
+seattle 
+boston 
+pittsburgh 
+atlanta 
+milwaukee 
+dallas 
+san francisco 
+san francisco 
+denver 
+boston 
+boston 
+long beach 
+baltimore or denver or pittsburgh 
+baltimore 
+washington 
+atlanta 
+montreal 
+denver 
+boston 
+atlanta 
+denver 
+baltimore oakland 
+san francisco 
+denver 
+atlanta 
+philadelphia 
+charlotte 
+baltimore 
+baltimore 
+westchester county 
+philadelphia 
+boston 
+pittsburgh 
+atlanta 
+denver 
+atlanta 
+pittsburgh 
+st. petersburg 
+new york 
+atlanta 
+pittsburgh 
+memphis 
+phoenix 
+pittsburgh 
+phoenix 
+boston 
+boston 
+boston 
+baltimore 
+new york 
+washington 
+philadelphia 
+san francisco 
+denver 
+baltimore 
+charlotte 
+boston 
+cleveland 
+boston 
+ontario 
+kansas city 
+philadelphia 
+san francisco 
+denver 
+memphis 
+atlanta 
+new york 
+san francisco 
+atlanta 
+boston 
+indianapolis 
+dallas 
+indianapolis nashville memphis 
+nashville 
+pittsburgh 
+atlanta 
+pittsburgh 
+toronto 
+baltimore 
+cincinnati 
+denver 
+dallas 
+boston 
+las vegas 
+philadelphia 
+washington 
+washington 
+miami 
+pittsburgh 
+pittsburgh 
+atlanta 
+dallas fort worth 
+boston 
+san diego 
+boston 
+boston 
+new york 
+miami 
+atlanta 
+new york 
+boston 
+boston 
+st. petersburg 
+san francisco 
+philadelphia 
+boston 
+washington 
+baltimore 
+baltimore 
+boston 
+atlanta 
+denver 
+baltimore 
+denver 
+atlanta 
+fort worth 
+dallas 
+miami 
+dallas 
+miami 
+philadelphia 
+boston 
+memphis 
+denver 
+pittsburgh 
+atlanta 
+baltimore 
+boston 
+san francisco 
+boston 
+boston 
+boston 
+washington 
+denver 
+new york city 
+denver 
+boston 
+boston 
+denver 
+phoenix 
+burbank 
+boston 
+atlanta 
+san francisco 
+las vegas 
+new york 
+san diego 
+dallas 
+cleveland 
+atlanta 
+boston 
+boston 
+atlanta 
+atlanta 
+salt lake city 
+boston 
+washington 
+new york 
+memphis 
+san francisco 
+denver 
+dallas 
+dallas 
+denver 
+dallas 
+boston 
+milwaukee 
+atlanta 
+baltimore 
+boston 
+boston 
+boston 
+denver 
+miami 
+boston 
+orlando 
+toronto 
+washington 
+boston 
+orlando 
+philadelphia 
+boston 
+denver 
+miami 
+boston 
+boston 
+la 
+toronto 
+san diego 
+indianapolis 
+baltimore 
+san francisco 
+pittsburgh 
+new york 
+philadelphia 
+san diego 
+denver 
+oakland 
+atlanta 
+boston 
+philadelphia 
+baltimore 
+baltimore 
+cincinnati 
+new york city 
+los angeles 
+philadelphia 
+dallas 
+new york 
+denver 
+philadelphia 
+san francisco 
+washington 
+baltimore 
+boston 
+phoenix 
+toronto 
+denver 
+boston 
+new york 
+denver 
+atlanta 
+boston 
+tacoma 
+dallas 
+philadelphia 
+new york 
+san francisco atlanta 
+san jose 
+baltimore 
+boston 
+atlanta 
+philadelphia 
+san francisco 
+tampa 
+newark 
+atlanta 
+tampa 
+philadelphia 
+pittsburgh 
+denver 
+newark 
+atlanta 
+philadelphia 
+denver 
+dallas fort worth 
+atlanta 
+philadelphia 
+washington 
+denver 
+pittsburgh 
+pittsburgh 
+nashville 
+atlanta 
+philadelphia 
+san francisco 
+memphis 
+atlanta 
+new york city 
+denver 
+washington 
+montreal 
+boston 
+tampa 
+boston 
+dallas 
+dallas 
+philadelphia 
+boston 
+denver 
+philadelphia 
+pittsburgh 
+boston 
+san francisco 
+charlotte 
+kansas city 
+chicago 
+nashville 
+boston 
+atlanta 
+baltimore 
+denver 
+pittsburgh 
+baltimore 
+dallas 
+boston 
+oakland 
+atlanta 
+atlanta 
+denver 
+milwaukee 
+toronto 
+dallas 
+st. paul 
+pittsburgh 
+boston 
+baltimore 
+pittsburgh 
+newark 
+oakland 
+boston 
+baltimore or washington 
+san francisco 
+milwaukee 
+cleveland 
+toronto 
+denver 
+boston 
+boston 
+atlanta 
+boston 
+boston 
+los angeles 
+us 771 pittsburgh 
+boston 
+pittsburgh 
+washington 
+orlando 
+philadelphia 
+washington 
+chicago 
+philadelphia 
+boston 
+san francisco 
+baltimore 
+denver 
+denver 
+dallas 
+dallas 
+philadelphia 
+denver 
+san francisco 
+denver 
+atlanta 
+pittsburgh 
+indianapolis 
+atlanta 
+boston 
+san francisco 
+boston 
+atlanta 
+pittsburgh 
+san diego 
+dallas 
+newark 
+chicago 
+boston 
+denver dallas 
+pittsburgh 
+pittsburgh 
+st. petersburg 
+washington 
+boston 
+st. paul 
+denver 
+atlanta 
+cleveland 
+atlanta 
+san francisco 
+indianapolis 
+boston 
+atlanta 
+denver 
+washington 
+boston 
+boston 
+denver 
+san francisco 
+pittsburgh 
+cleveland 
+toronto 
+atlanta 
+boston 
+boston 
+houston 
+pittsburgh 
+salt lake city 
+baltimore 
+toronto 
+st. petersburg 
+boston 
+cleveland 
+phoenix 
+philadelphia 
+milwaukee 
+new york 
+kansas city 
+denver 
+oakland 
+baltimore 
+denver 
+boston 
+dallas 
+pittsburgh 
+one way tampa 
+nashville 
+atlanta 
+atlanta 
+milwaukee 
+houston 
+dallas fort worth 
+denver 
+denver 
+philadelphia 
+boston 
+denver 
+salt lake city 
+boston 
+oakland 
+phoenix 
+boston 
+baltimore 
+indianapolis 
+st. petersburg 
+denver 
+boston 
+nashville 
+boston 
+boston 
+pittsburgh 
+atlanta 
+milwaukee 
+atlanta 
+san francisco 
+denver 
+boston 
+atlanta 
+boston 
+philadelphia 
+dallas 
+kansas city 
+dallas 
+dallas 
+atlanta 
+boston 
+philadelphia 
+boston 
+pittsburgh 
+atlanta 
+denver 
+boston 
+cincinnati 
+boston 
+san francisco 
+minneapolis 
+dallas 
+dallas fort worth 
+philadelphia 
+denver 
+nashville 
+montreal 
+westchester county 
+nashville 
+boston 
+pittsburgh 
+denver 
+san francisco 
+philadelphia 
+boston 
+san francisco 
+minneapolis 
+los angeles 
+oakland 
+new york 
+denver 
+new york 
+pittsburgh 
+denver 
+washington 
+philadelphia 
+atlanta 
+denver 
+dallas 
+toronto 
+san francisco 
+indianapolis 
+new york 
+tampa 
+baltimore 
+philadelphia 
+dallas 
+boston 
+las vegas 
+pittsburgh 
+atlanta 
+houston 
+boston 
+baltimore 
+denver 
+denver 
+denver 
+baltimore 
+boston 
+atlanta 
+atlanta 
+dallas 
+philadelphia 
+boston 
+indianapolis 
+pittsburgh 
+milwaukee 
+pittsburgh 
+dallas 
+dallas 
+san diego 
+nashville 
+st. louis 
+denver 
+washington 
+denver 
+minneapolis 
+oakland 
+phoenix 
+washington 
+boston 
+san jose 
+newark 
+baltimore 
+baltimore 
+memphis 
+newark 
+boston 
+denver 
+chicago 
+san francisco 
+denver 
+boston 
+pittsburgh 
+philadelphia 
+philadelphia 
+denver 
+boston 
+denver 
+baltimore 
+minneapolis 
+boston 
+dallas fort worth 
+pittsburgh 
+minneapolis 
+boston 
+philadelphia 
+oakland 
+boston 
+denver 
+boston 
+atlanta 
+pittsburgh 
+boston 
+newark 
+dallas 
+philadelphia 
+baltimore 
+denver 
+philadelphia 
+washington 
+atlanta 
+kansas city 
+boston 
+denver 
+boston 
+oakland 
+denver 
+dallas fort worth 
+dallas fort worth 
+oakland 
+new york 
+denver 
+atlanta 
+philadelphia 
+philadelphia 
+us 3724 baltimore 
+pittsburgh 
+phoenix 
+baltimore 
+houston 
+pittsburgh 
+denver 
+denver 
+chicago 
+dallas 
+dallas 
+atlanta 
+atlanta 
+montreal 
+washington 
+philadelphia 
+atlanta 
+pittsburgh 
+boston 
+new york 
+tampa 
+boston 
+denver 
+long beach 
+atlanta 
+philadelphia 
+san francisco 
+boston 
+boston 
+philadelphia 
+philadelphia 
+denver 
+indianapolis 
+pittsburgh 
+new york 
+denver 
+pittsburgh 
+denver 
+oakland 
+tacoma 
+pittsburgh 
+los angeles 
+atlanta 
+new york 
+minneapolis 
+atlanta 
+baltimore 
+pittsburgh 
+denver 
+dallas 
+new york 
+philadelphia 
+pittsburgh 
+denver 
+houston 
+la 
+denver 
+denver 
+new york city 
+san francisco 
+boston 
+denver 
+kansas city 
+dallas 
+denver 
+dallas 
+dallas 
+chicago 
+pittsburgh 
+san francisco 
+milwaukee 
+baltimore 
+st. petersburg 
+dallas 
+boston 
+boston 
+charlotte 
+philadelphia 
+san francisco 
+dallas 
+dallas 
+boston 
+boston 
+philadelphia 
+baltimore 
+boston 
+chicago 
+milwaukee 
+atlanta 
+pittsburgh 
+new york 
+washington 
+pittsburgh 
+milwaukee 
+boston 
+newark 
+denver 
+philadelphia 
+long beach 
+denver 
+san jose 
+denver 
+baltimore 
+denver 
+las vegas 
+atlanta 
+denver 
+phoenix 
+boston 
+boston 
+boston 
+denver 
+dallas 
+charlotte 
+april twenty second dallas 
+san francisco 
+san francisco 
+tampa 
+boston 
+st. louis 
+san francisco 
+san francisco 
+montreal 
+cleveland 
+pittsburgh 
+pittsburgh 
+baltimore 
+boston 
+long beach 
+atlanta 
+atlanta 
+baltimore 
+san francisco 
+boston 
+indianapolis 
+pittsburgh 
+new york 
+washington 
+dallas 
+denver 
+baltimore 
+detroit 
+atlanta 
+philadelphia 
+washington 
+denver 
+westchester county 
+denver 
+newark 
+washington 
+atlanta 
+boston 
+boston 
+dallas 
+dallas 
+dallas 
+atlanta 
+san francisco 
+denver 
+denver 
+tampa 
+oakland 
+new york 
+dallas fort worth 
+pittsburgh 
+baltimore 
+oakland 
+chicago 
+dallas 
+pittsburgh 
+newark 
+boston 
+st. petersburg 
+boston 
+boston 
+orlando 
+new york 
+boston 
+boston 
+cincinnati 
+houston 
+dallas 
+denver 
+kansas city 
+baltimore 
+phoenix 
+newark 
+pittsburgh 
+denver 
+boston 
+dallas 
+dallas 
+boston 
+baltimore 
+atlanta 
+boston 
+san francisco 
+baltimore 
+cleveland 
+washington 
+denver 
+pittsburgh 
+pittsburgh 
+baltimore 
+dallas 
+pittsburgh 
+boston 
+boston 
+philadelphia 
+denver 
+baltimore 
+milwaukee 
+philadelphia 
+dallas 
+houston 
+san francisco 
+philadelphia 
+denver 
+denver 
+boston 
+denver 
