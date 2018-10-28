@@ -1,0 +1,63 @@
+data_params:
+  path_result: ./atis/data/domain/atis.session.result
+  path_test: ./atis/data/domain/atis.session.test
+  path_test_true: ./atis/data/domain/atis.session.test_true
+  path_train: ./atis/data/domain/atis.session.train
+  sep: table
+  voc_params:
+    char: {min_count: 0, path: ./Res/voc/char.voc.pkl}
+    f1: {min_count: 0, path: ./Res/voc/f1.voc.pkl}
+    f2: {min_count: 0, path: ./Res/voc/f2.voc.pkl}
+    f3: {min_count: 0, path: ./Res/voc/f3.voc.pkl}
+    label: {min_count: 0, path: ./Res/voc/label.voc.pkl}
+    default: {min_count: 0, path: ./Res/voc/default.voc.pkl}
+model: NER
+model_params:
+  batch_size: 32
+  bilstm_params: {num_layers: 1, num_units: 64, rnn_dropout: 0.2}
+  clip: 10
+  conv_dropout: 0.2
+  conv_filter_len_list: [1, 2, 3, 4, 5]
+  conv_filter_size_list: [8, 8, 8, 8, 8]
+  dev_size: 0.1
+  dropout_rate: 0.3
+  embed_params:
+    char:
+      dropout_rate: 0.3
+      path: null
+      path_pre_train: null
+      shape: [40, 16]
+    f1:
+      dropout_rate: 0.3
+      path: null
+      path_pre_train: null
+      shape: [5730, 64]
+    f2:
+      dropout_rate: 0.4
+      path: null
+      path_pre_train: null
+      shape: [34, 32]
+    f3:
+      dropout_rate: 0.3
+      path: null
+      path_pre_train: null
+      shape: [83, 32]
+    default:
+      dropout_rate: 0.3
+      path: null
+      path_pre_train: null
+      shape: [2, 2]
+  feature_names: [f1, f2,f3]
+  l2_rate: 0.001
+  learning_rate: 0.001
+  max_patience: 3
+  nb_classes: 145
+  nb_epoch: 200
+  path_model: ./Model-bi-crf-domain/best_model_joint2
+  rnn_unit: lstm
+  sequence_len_pt: 100
+  sequence_length: 47
+  use_char_feature: false
+  use_crf: true
+  word_len_pt: 100
+  word_length: 16
