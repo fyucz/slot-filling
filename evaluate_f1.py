@@ -123,29 +123,29 @@ def f1(test_path,true_path):
             test_slot_list.append(test.strip().split()[-1])
             true_word_list.append(true.strip().split()[0])
             test_word_list.append(test.strip().split()[0])
-            true_dic = bieos(true_slot_list,true_word_list)
-            test_dic = bieos(test_slot_list,test_word_list)
-            keys = set()
-            for key in true_dic.keys():
-                keys.add(key)
-            for key in test_dic.keys():
-                keys.add(key)
-            for key in keys:
-                if key not in matrix:
-                    matrix[key] = [0,0,0] #TP,FP,FN
-                true_words,test_words = [],[]
-                if key in true_dic:
-                    true_words = true_dic[key]
-                if key in test_dic:
-                    test_words = test_dic[key]
-                for word in true_words:
-                    if word in test_words:
-                        matrix[key][0] += 1
-                    else:
-                        matrix[key][2] += 1
-                for word in test_words:
-                    if word not in true_words:
-                        matrix[key][1] += 1
+        true_dic = bieos(true_slot_list,true_word_list)
+        test_dic = bieos(test_slot_list,test_word_list)
+        keys = set()
+        for key in true_dic.keys():
+            keys.add(key)
+        for key in test_dic.keys():
+            keys.add(key)
+        for key in keys:
+            if key not in matrix:
+                matrix[key] = [0,0,0] #TP,FP,FN
+            true_words,test_words = [],[]
+            if key in true_dic:
+                true_words = true_dic[key]
+            if key in test_dic:
+                test_words = test_dic[key]
+            for word in true_words:
+                if word in test_words:
+                    matrix[key][0] += 1
+                else:
+                    matrix[key][2] += 1
+            for word in test_words:
+                if word not in true_words:
+                    matrix[key][1] += 1
 
     TP_sum,FP_sum,FN_sum = 0,0,0
     for key in matrix:
